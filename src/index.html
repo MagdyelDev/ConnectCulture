@@ -7,11 +7,12 @@
     <link rel="stylesheet" href="./styles/style.css">
     <link rel="stylesheet" href="./styles/home.css">
     <link rel="stylesheet" href="./styles/content.css">
+    <link rel="stylesheet" href="./styles/connect.css">
 </head>
-<body>
+<body data-raiz=".">
     <header class="header">
         <div class="header-content">
-            <a href="index.html" class="logo">
+            <a href="./index.html" class="logo">
                 <img src="./assets/img/logo.png" alt="Connect Culture">
             </a>
             <input class="menu-checkbox" type="checkbox" id="mobile-menu" aria-label="Abrir menu">
@@ -21,39 +22,30 @@
                 <span></span>
             </label>
             <nav class="navigation" id="main-navigation">
-                <a href="index.html" class="active">
-                    Início
+                <a href="./index.html" class="active" aria-current="page">
+                    <span data-t="menuInicio">Início</span>
                     <svg class="navigation-icon" viewBox="0 0 24 24" aria-hidden="true"><path d="m3 10 9-7 9 7v10a1 1 0 0 1-1 1h-6v-7h-4v7H4a1 1 0 0 1-1-1z" /></svg>
                 </a>
                 <a href="./pages/pontos.html">
-                    Pontos Turísticos
+                    <span data-t="menuPontos">Pontos Turísticos</span>
                     <svg class="navigation-icon" viewBox="0 0 24 24" aria-hidden="true"><path d="M20 10c0 5-8 12-8 12S4 15 4 10a8 8 0 1 1 16 0Z" /><circle cx="12" cy="10" r="2.5" /></svg>
                 </a>
                 <a href="./pages/sobre.html">
-                    Sobre
+                    <span data-t="menuSobre">Sobre</span>
                     <svg class="navigation-icon" viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="12" r="9" /><path d="M12 11v5m0-8h.01" /></svg>
                 </a>
+                <button class="lang-toggle" type="button" data-t="trocarIdioma">EN</button>
             </nav>
         </div>
     </header>
     <main>
-        <!-- Foto de fundo-->
         <section class="hero">
-            <img 
-                src="./assets/img/igreja.png" 
-                alt="Igreja de Serra Talhada"
-                class="hero-background"
-            >
+            <img src="./assets/img/igreja.jpg" alt="Igreja de Nossa Senhora da Penha, em Serra Talhada" class="hero-background">
             <div class="hero-overlay"></div>
             <div class="hero-content">
                 <h1>Connect Culture</h1>
-                <p>
-                    Integrando tecnologia, educação e cultura para valorizar a
-                    história local e ampliar a experiência dos visitantes.
-                </p>
-                <a href="https://connectculture.vercel.app/#sobre" class="hero-button">
-                    Saiba Mais
-                </a>
+                <p data-t="heroTexto">Integrando tecnologia, educação e cultura para valorizar a história local e ampliar a experiência dos visitantes.</p>
+                <a href="./pages/sobre.html" class="hero-button" data-t="saibaMais">Saiba Mais</a>
             </div>
             <a class="scroll-cue" href="#introducao" aria-label="Descer para a introdução">
                 <span aria-hidden="true">↓</span>
@@ -63,10 +55,17 @@
         <section class="content-section intro-section" id="introducao">
             <div class="section-inner intro-layout">
                 <div class="section-heading">
-                    <span class="eyebrow">Cultura sem fronteiras</span>
-                    <h2>Introdução</h2>
+                    <span class="eyebrow" data-t="culturaSemFronteiras">Cultura sem fronteiras</span>
+                    <h2 data-t="introducao">Introdução</h2>
                 </div>
-                <p class="lead-copy">O Connect Culture é uma iniciativa desenvolvida pelos alunos do curso MEDIOTEC – Técnico em Desenvolvimento de Sistemas do Senac Serra Talhada. O projeto nasce da necessidade de integrar tecnologia, educação e cultura, tornando os espaços culturais da cidade mais acessíveis, atrativos e conectados com o público atual. Através da inovação digital, busca-se valorizar a história local e ampliar a experiência dos visitantes, oferecendo novas possibilidades de interação com pontos turísticos, museus e exposições.</p>
+                <div>
+                    <p class="texto-pt lead-copy">O Connect Culture é uma iniciativa desenvolvida pelos alunos do curso MEDIOTEC – Técnico em Desenvolvimento de Sistemas do Senac Serra Talhada. O projeto nasce da necessidade de integrar tecnologia, educação e cultura, tornando os espaços culturais da região mais acessíveis, atrativos e conectados com o público atual. Através da inovação digital, busca-se valorizar a história local e ampliar a experiência dos visitantes, oferecendo novas possibilidades de interação com pontos turísticos, museus e exposições.</p><p class="texto-en lead-copy">Connect Culture is an initiative developed by students of the MEDIOTEC Systems Development technical course at Senac Serra Talhada. The project was born from the need to bring together technology, education and culture, making the region's cultural spaces more accessible, attractive and connected to today's public. Through digital innovation, it seeks to value local history and enrich the visitor experience, offering new ways to interact with tourist sites, museums and exhibitions.</p>
+                    <div class="numeros">
+                        <div><strong id="num-pontos">78</strong><span data-t="numPontos">pontos turísticos</span></div>
+                        <div><strong id="num-cidades">26</strong><span data-t="numCidades">cidades</span></div>
+                        <div><strong>2</strong><span data-t="numIdiomas">idiomas</span></div>
+                    </div>
+                </div>
             </div>
         </section>
 
@@ -74,31 +73,70 @@
             <div class="section-inner">
                 <div class="section-heading section-heading-row">
                     <div>
-                        <span class="eyebrow">Serra Talhada e região</span>
-                        <h2>Pontos Turísticos</h2>
+                        <span class="eyebrow" data-t="regiao">Sertão do Pajeú e do Moxotó</span>
+                        <h2 data-t="pontosTuristicos">Pontos Turísticos</h2>
                     </div>
-                    <p>Explore alguns dos principais pontos turísticos e culturais de Serra Talhada e região através da tecnologia e da experiência digital.</p>
+                    <p data-t="pontosTexto">Explore os pontos turísticos e culturais do Sertão do Pajeú e do Sertão do Moxotó.</p>
                 </div>
-                <a class="featured-place" href="./pages/pontos.html">
-                    <img src="./assets/img/igreja.png" alt="Igreja de Serra Talhada">
+                <a class="featured-place" id="destaque-link" href="./pages/pontos.html">
+                    <img src="./assets/img/pontos/museu-do-cangaco.jpg" alt="Museu do Cangaço">
                     <span class="featured-place-label">
-                        <span class="eyebrow">Conheça um dos destaques</span>
-                        <strong>Igreja de Serra Talhada</strong>
-                        <span class="text-link">Explorar <span aria-hidden="true">↗</span></span>
+                        <span class="eyebrow" data-t="conhecaDestaque">Conheça um dos destaques</span>
+                        <strong>Museu do Cangaço</strong>
+                        <span class="text-link"><span data-t="explorar">Explorar</span> <span aria-hidden="true">↗</span></span>
                     </span>
                 </a>
+                <div class="places-grid destaques-home" id="destaques"></div>
+                <div class="centralizado">
+                    <a class="hero-button" href="./pages/pontos.html" data-t="verTodos">Ver todos os pontos</a>
+                </div>
+            </div>
+        </section>
+
+        <section class="content-section intro-section" id="cidades-por-regiao">
+            <div class="section-inner">
+                <div class="section-heading">
+                    <span class="eyebrow" data-t="cidadesEyebrow">Por região</span>
+                    <h2 data-t="cidadesTitulo">Cidades</h2>
+                </div>
+                <div class="regioes" id="cidades"></div>
             </div>
         </section>
 
         <section class="project-callout" id="sobre">
             <div class="section-inner callout-inner">
                 <div>
-                    <span class="eyebrow">Tecnologia, educação e cultura</span>
-                    <h2>Uma nova forma de conhecer a história local.</h2>
+                    <span class="eyebrow" data-t="calloutEyebrow">Tecnologia, educação e cultura</span>
+                    <h2 data-t="calloutTitulo">Uma nova forma de conhecer a história local.</h2>
                 </div>
-                <a class="hero-button" href="./pages/sobre.html">Conheça o projeto</a>
+                <a class="hero-button" href="./pages/sobre.html" data-t="conhecaProjeto">Conheça o projeto</a>
             </div>
         </section>
     </main>
+    <footer class="site-footer">
+        <div class="section-inner footer-inner">
+            <div>
+                <h2>Connect Culture</h2>
+                <p data-t="rodapeTexto">Projeto desenvolvido pelos alunos do curso MEDIOTEC – Técnico em Desenvolvimento de Sistemas do Senac Serra Talhada.</p>
+            </div>
+            <div class="footer-contact">
+                <h3 data-t="contato">Contato</h3>
+                <p>Senac Serra Talhada</p>
+                <p>Serra Talhada - PE</p>
+            </div>
+            <small data-t="direitos">© 2026 Connect Culture. Todos os direitos reservados.</small>
+        </div>
+    </footer>
+    <script src="./scripts/idioma.js"></script>
+    <script src="./scripts/dados.js"></script>
+    <script src="./scripts/inicio.js"></script>
+    <div vw class="enabled">
+        <div vw-access-button class="active"></div>
+        <div vw-plugin-wrapper>
+            <div class="vw-plugin-top-wrapper"></div>
+        </div>
+    </div>
+    <script src="https://vlibras.gov.br/app/vlibras-plugin.js"></script>
+    <script src="./scripts/vlibras.js"></script>
 </body>
 </html>

@@ -7,29 +7,43 @@
     <link rel="stylesheet" href="../styles/style.css">
     <link rel="stylesheet" href="../styles/home.css">
     <link rel="stylesheet" href="../styles/content.css">
+    <link rel="stylesheet" href="../styles/connect.css">
 </head>
-<body>
+<body data-raiz="..">
     <header class="header">
         <div class="header-content">
-            <a href="../index.html" class="logo"><img src="../assets/img/logo.png" alt="Connect Culture"></a>
+            <a href="../index.html" class="logo">
+                <img src="../assets/img/logo.png" alt="Connect Culture">
+            </a>
             <input class="menu-checkbox" type="checkbox" id="mobile-menu" aria-label="Abrir menu">
             <label class="menu-toggle" for="mobile-menu" aria-hidden="true">
-                <span></span><span></span><span></span>
+                <span></span>
+                <span></span>
+                <span></span>
             </label>
             <nav class="navigation" id="main-navigation">
-                <a href="../index.html">Início</a>
-                <a href="./pontos.html" class="active" aria-current="page">Pontos Turísticos</a>
-                <a href="./sobre.html">Sobre</a>
+                <a href="../index.html">
+                    <span data-t="menuInicio">Início</span>
+                    <svg class="navigation-icon" viewBox="0 0 24 24" aria-hidden="true"><path d="m3 10 9-7 9 7v10a1 1 0 0 1-1 1h-6v-7h-4v7H4a1 1 0 0 1-1-1z" /></svg>
+                </a>
+                <a href="../pages/pontos.html" class="active" aria-current="page">
+                    <span data-t="menuPontos">Pontos Turísticos</span>
+                    <svg class="navigation-icon" viewBox="0 0 24 24" aria-hidden="true"><path d="M20 10c0 5-8 12-8 12S4 15 4 10a8 8 0 1 1 16 0Z" /><circle cx="12" cy="10" r="2.5" /></svg>
+                </a>
+                <a href="../pages/sobre.html">
+                    <span data-t="menuSobre">Sobre</span>
+                    <svg class="navigation-icon" viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="12" r="9" /><path d="M12 11v5m0-8h.01" /></svg>
+                </a>
+                <button class="lang-toggle" type="button" data-t="trocarIdioma">EN</button>
             </nav>
         </div>
     </header>
-
     <main class="inner-page">
         <section class="page-banner places-banner">
             <div class="section-inner page-banner-content">
                 <span class="eyebrow">Connect Culture</span>
-                <h1>Pontos Turísticos</h1>
-                <p>Explore lugares, paisagens e histórias de Serra Talhada e do Sertão pernambucano.</p>
+                <h1 data-t="pontosTuristicos">Pontos Turísticos</h1>
+                <p data-t="pontosBannerTexto">Explore lugares, paisagens e histórias do Sertão pernambucano.</p>
             </div>
         </section>
 
@@ -37,343 +51,61 @@
             <div class="section-inner">
                 <div class="gallery-heading">
                     <div>
-                        <span class="eyebrow">Uma região cheia de histórias</span>
-                        <h2>Descubra cada lugar</h2>
+                        <span class="eyebrow" data-t="descubraEyebrow">Uma região cheia de histórias</span>
+                        <h2 data-t="descubra">Descubra cada lugar</h2>
                     </div>
-                    <p>Escolha um ponto para ver fotos e conhecer mais sobre o local.</p>
+                    <p data-t="descubraTexto">Use a busca e os filtros para encontrar um ponto.</p>
                 </div>
-                <div class="places-grid">
-                    <article class="place-card">
-                        <a class="place-card-image" href="#detalhe-serra" aria-label="Ver detalhes de A Serra Talhada"><img src="../assets/img/pontos/serra-talhada.jpg" alt="Paisagem da Serra Talhada"></a>
-                        <div class="place-card-content"><span class="place-category">Monumento Natural</span><h3>A Serra Talhada</h3><p class="place-location">Serra Talhada - Pernambuco</p><p>O principal símbolo histórico e cultural da cidade de Serra Talhada.</p><a class="place-explore" href="#detalhe-serra">Explorar <span aria-hidden="true">↗</span></a></div>
-                    </article>
-                    <article class="place-card">
-                        <a class="place-card-image" href="#detalhe-rosario" aria-label="Ver detalhes da Igreja do Rosário"><img src="../assets/img/pontos/igreja-do-rosario.jpg" alt="Igreja do Rosário"></a>
-                        <div class="place-card-content"><span class="place-category">Patrimônio Religioso</span><h3>Igreja do Rosário</h3><p class="place-location">Serra Talhada - Pernambuco</p><p>Um dos templos religiosos mais tradicionais e históricos da cidade.</p><a class="place-explore" href="#detalhe-rosario">Explorar <span aria-hidden="true">↗</span></a></div>
-                    </article>
-                    <article class="place-card">
-                        <a class="place-card-image" href="#detalhe-penha" aria-label="Ver detalhes da Igreja Matriz Nossa Senhora da Penha"><img src="../assets/img/pontos/igreja-matriz-penha.jpg" alt="Igreja Matriz Nossa Senhora da Penha"></a>
-                        <div class="place-card-content"><span class="place-category">Patrimônio Religioso</span><h3>Igreja Matriz Nossa Senhora da Penha</h3><p class="place-location">Serra Talhada - Pernambuco</p><p>Coração religioso e arquitetônico de Serra Talhada.</p><a class="place-explore" href="#detalhe-penha">Explorar <span aria-hidden="true">↗</span></a></div>
-                    </article>
-                    <article class="place-card">
-                        <a class="place-card-image" href="#detalhe-cultura" aria-label="Ver detalhes da Casa da Cultura"><img src="../assets/img/pontos/casa-da-cultura.jpg" alt="Casa da Cultura"></a>
-                        <div class="place-card-content"><span class="place-category">Cultura</span><h3>Casa da Cultura</h3><p class="place-location">Serra Talhada - Pernambuco</p><p>Um espaço dedicado à cultura e às expressões da região.</p><a class="place-explore" href="#detalhe-cultura">Explorar <span aria-hidden="true">↗</span></a></div>
-                    </article>
-                    <article class="place-card">
-                        <a class="place-card-image" href="#detalhe-almas" aria-label="Ver detalhes da Casa Grande das Almas"><img src="../assets/img/pontos/casa-grande-das-almas.jpg" alt="Casa Grande das Almas"></a>
-                        <div class="place-card-content"><span class="place-category">Patrimônio Histórico</span><h3>Casa Grande das Almas</h3><p class="place-location">Sertão de Pernambuco</p><p>Uma construção histórica que integra o patrimônio arquitetônico sertanejo.</p><a class="place-explore" href="#detalhe-almas">Explorar <span aria-hidden="true">↗</span></a></div>
-                    </article>
-                    <article class="place-card">
-                        <a class="place-card-image" href="#detalhe-castelo" aria-label="Ver detalhes do Castelo Armorial"><img src="../assets/img/pontos/castelo-armorial.jpg" alt="Castelo Armorial"></a>
-                        <div class="place-card-content"><span class="place-category">Arte e Cultura</span><h3>Castelo Armorial</h3><p class="place-location">Sertão de Pernambuco</p><p>Arquitetura inspirada pela identidade artística e cultural nordestina.</p><a class="place-explore" href="#detalhe-castelo">Explorar <span aria-hidden="true">↗</span></a></div>
-                    </article>
-                    <article class="place-card">
-                        <a class="place-card-image" href="#detalhe-engenho" aria-label="Ver detalhes do Engenho São Pedro"><img src="../assets/img/pontos/engenho-sao-pedro.jpg" alt="Engenho São Pedro"></a>
-                        <div class="place-card-content"><span class="place-category">Patrimônio Histórico</span><h3>Engenho São Pedro</h3><p class="place-location">Sertão de Pernambuco</p><p>Um lugar ligado à memória e à formação histórica da região.</p><a class="place-explore" href="#detalhe-engenho">Explorar <span aria-hidden="true">↗</span></a></div>
-                    </article>
-                    <article class="place-card">
-                        <a class="place-card-image" href="#detalhe-estadio" aria-label="Ver detalhes do Estádio Cornélio de Barros"><img src="../assets/img/pontos/estadio-cornelio-de-barros.jpg" alt="Estádio Cornélio de Barros"></a>
-                        <div class="place-card-content"><span class="place-category">Esporte</span><h3>Estádio Cornélio de Barros</h3><p class="place-location">Sertão de Pernambuco</p><p>Um espaço de encontro para o esporte e a paixão pelo futebol.</p><a class="place-explore" href="#detalhe-estadio">Explorar <span aria-hidden="true">↗</span></a></div>
-                    </article>
-                    <article class="place-card">
-                        <a class="place-card-image" href="#detalhe-dores" aria-label="Ver detalhes da Igreja Matriz das Dores"><img src="../assets/img/pontos/igreja-matriz-dores.jpg" alt="Igreja Matriz das Dores"></a>
-                        <div class="place-card-content"><span class="place-category">Patrimônio Religioso</span><h3>Igreja Matriz das Dores</h3><p class="place-location">Sertão de Pernambuco</p><p>Arquitetura religiosa que marca a paisagem e a memória local.</p><a class="place-explore" href="#detalhe-dores">Explorar <span aria-hidden="true">↗</span></a></div>
-                    </article>
-                    <article class="place-card">
-                        <a class="place-card-image" href="#detalhe-mirante" aria-label="Ver detalhes do Mirante Serra Talhada"><img src="../assets/img/pontos/mirante-serra-talhada.jpg" alt="Vista do Mirante Serra Talhada"></a>
-                        <div class="place-card-content"><span class="place-category">Paisagem Natural</span><h3>Mirante Serra Talhada</h3><p class="place-location">Serra Talhada - Pernambuco</p><p>Um ponto para contemplar a paisagem e os contornos da região.</p><a class="place-explore" href="#detalhe-mirante">Explorar <span aria-hidden="true">↗</span></a></div>
-                    </article>
-                    <article class="place-card">
-                        <a class="place-card-image" href="#detalhe-museu" aria-label="Ver detalhes do Museu do Cangaço"><img src="../assets/img/pontos/museu-do-cangaco.jpg" alt="Museu do Cangaço"></a>
-                        <div class="place-card-content"><span class="place-category">Museu e Memória</span><h3>Museu do Cangaço</h3><p class="place-location">Serra Talhada - Pernambuco</p><p>Memórias e referências de um dos capítulos marcantes da história sertaneja.</p><a class="place-explore" href="#detalhe-museu">Explorar <span aria-hidden="true">↗</span></a></div>
-                    </article>
-                    <article class="place-card">
-                        <a class="place-card-image" href="#detalhe-reino" aria-label="Ver detalhes da Pedra do Reino"><img src="../assets/img/pontos/pedra-do-reino.jpg" alt="Formação rochosa da Pedra do Reino"></a>
-                        <div class="place-card-content"><span class="place-category">Paisagem Natural</span><h3>Pedra do Reino</h3><p class="place-location">Sertão de Pernambuco</p><p>Uma paisagem sertaneja de grande presença e identidade regional.</p><a class="place-explore" href="#detalhe-reino">Explorar <span aria-hidden="true">↗</span></a></div>
-                    </article>
-                    <article class="place-card">
-                        <a class="place-card-image" href="#detalhe-papagaio" aria-label="Ver detalhes do Pico do Papagaio"><img src="../assets/img/pontos/pico-do-papagaio.jpg" alt="Pico do Papagaio"></a>
-                        <div class="place-card-content"><span class="place-category">Paisagem Natural</span><h3>Pico do Papagaio</h3><p class="place-location">Sertão de Pernambuco</p><p>Um dos destaques naturais para quem aprecia as paisagens da região.</p><a class="place-explore" href="#detalhe-papagaio">Explorar <span aria-hidden="true">↗</span></a></div>
-                    </article>
-                    <article class="place-card">
-                        <a class="place-card-image" href="#detalhe-pajeu" aria-label="Ver detalhes do Rio Pajeú"><img src="../assets/img/pontos/rio-pajeu.jpg" alt="Rio Pajeú"></a>
-                        <div class="place-card-content"><span class="place-category">Paisagem Natural</span><h3>Rio Pajeú</h3><p class="place-location">Sertão de Pernambuco</p><p>Um elemento importante da paisagem e da vida no Sertão.</p><a class="place-explore" href="#detalhe-pajeu">Explorar <span aria-hidden="true">↗</span></a></div>
-                    </article>
-                    <article class="place-card">
-                        <a class="place-card-image" href="#detalhe-theatro" aria-label="Ver detalhes do Theatro Cinema Guarany"><img src="../assets/img/pontos/theatro-cinema-guarany.jpg" alt="Theatro Cinema Guarany"></a>
-                        <div class="place-card-content"><span class="place-category">Patrimônio Cultural</span><h3>Theatro Cinema Guarany</h3><p class="place-location">Sertão de Pernambuco</p><p>Um espaço cultural ligado às artes, ao cinema e à memória da cidade.</p><a class="place-explore" href="#detalhe-theatro">Explorar <span aria-hidden="true">↗</span></a></div>
-                    </article>
-                </div>
+
+                <form class="filtros" onsubmit="return false">
+                    <label class="filtro filtro-busca">
+                        <span data-t="busca">Buscar</span>
+                        <input type="search" id="busca" data-t-placeholder="buscaPlaceholder" placeholder="Nome, cidade ou assunto">
+                    </label>
+                    <label class="filtro">
+                        <span data-t="filtroRegiao">Região</span>
+                        <select id="filtro-regiao"></select>
+                    </label>
+                    <label class="filtro">
+                        <span data-t="filtroCidade">Cidade</span>
+                        <select id="filtro-cidade"></select>
+                    </label>
+                    <label class="filtro">
+                        <span data-t="filtroCategoria">Categoria</span>
+                        <select id="filtro-categoria"></select>
+                    </label>
+                    <button class="botao-contorno" type="button" id="limpar-filtros" data-t="limpar">Limpar filtros</button>
+                </form>
+
+                <p class="total-pontos" id="total-pontos"></p>
+                <div class="places-grid" id="lista-pontos"></div>
             </div>
         </section>
-
-        <div class="place-details">
-            <section class="place-detail" id="detalhe-serra">
-                <a class="detail-back" href="#pontos-turisticos" aria-label="Voltar para os pontos turísticos"><span aria-hidden="true">←</span><span class="detail-back-text">Voltar</span></a>
-                <div class="detail-shell">
-                    <input class="language-radio" type="radio" name="lang-serra" id="lang-pt-serra" checked><input class="language-radio" type="radio" name="lang-serra" id="lang-en-serra"><input class="zoom-toggle" type="checkbox" id="zoom-serra">
-                    <label class="detail-photo" for="zoom-serra"><img src="../assets/img/pontos/serra-talhada.jpg" alt="Paisagem da Serra Talhada"><span class="zoom-hint">Ampliar foto</span></label>
-                    <div class="detail-copy"><span class="place-category">Monumento Natural</span><h2>A Serra Talhada</h2><p class="place-location">Serra Talhada - Pernambuco</p><div class="language-switch" role="group" aria-label="Selecionar idioma"><label class="language-button" for="lang-pt-serra">Português</label><label class="language-button" for="lang-en-serra">English</label></div><div class="detail-language detail-copy-pt">
-    <p>A serra que deu nome a Serra Talhada é o marco histórico e simbólico da cidade. Foi ao seu redor que surgiram as primeiras fazendas de criação que deram origem ao povoado, e sua aparência de paredão abrupto e “talhado” inspirou o nome do município.</p>
-    <p>Ao longo do tempo, serviu como referência para viajantes e cenário de importantes capítulos da cultura do sertão, incluindo o cangaço, já que a cidade é terra natal de Lampião.</p>
-    <p>Além de sua relevância histórica, a serra é um dos principais cartões-postais locais: imponente, com rochas expostas e rodeada pela vegetação da caatinga.</p>
-    <p>Ela representa a identidade, a memória e o orgulho do povo serra-talhadense.</p>
-</div>
-<div class="detail-language detail-copy-en">
-    <p>The mountain that gave Serra Talhada its name is the city's main historical and symbolic landmark. It was around this formation that the first cattle farms appeared, giving rise to the early settlement.</p>
-    <p>Its abrupt, carved-like rocky walls inspired the name of the municipality. Over time, the mountain served as a reference point for travelers and as the backdrop for important cultural chapters of the sertão.</p>
-    <p>This includes the cangaço movement, since the city is the birthplace of Lampião.</p>
-    <p>Beyond its historical relevance, the mountain is one of the region’s most iconic landscapes, surrounded by caatinga vegetation and representing identity, memory and pride for the people of Serra Talhada.</p>
-</div>
-                    <div class="detail-lightbox"><label class="detail-lightbox-backdrop" for="zoom-serra" aria-label="Fechar foto ampliada"></label><img src="../assets/img/pontos/serra-talhada.jpg" alt="Paisagem da Serra Talhada ampliada"><label class="detail-lightbox-close" for="zoom-serra" aria-label="Fechar foto ampliada">×</label></div>
-                </div>
-            </section>
-            <section class="place-detail" id="detalhe-rosario">
-                <a class="detail-back" href="#pontos-turisticos" aria-label="Voltar para os pontos turísticos"><span aria-hidden="true">←</span><span class="detail-back-text">Voltar</span></a>
-                <div class="detail-shell">
-                    <input class="language-radio" type="radio" name="lang-rosario" id="lang-pt-rosario" checked><input class="language-radio" type="radio" name="lang-rosario" id="lang-en-rosario"><input class="zoom-toggle" type="checkbox" id="zoom-rosario">
-                    <label class="detail-photo" for="zoom-rosario"><img src="../assets/img/pontos/igreja-do-rosario.jpg" alt="Igreja do Rosário"><span class="zoom-hint">Ampliar foto</span></label>
-                    <div class="detail-copy"><span class="place-category">Patrimônio Religioso</span><h2>Igreja do Rosário</h2><p class="place-location">Serra Talhada - Pernambuco</p><div class="language-switch" role="group" aria-label="Selecionar idioma"><label class="language-button" for="lang-pt-rosario">Português</label><label class="language-button" for="lang-en-rosario">English</label></div><div class="detail-language detail-copy-pt">
-    <p>A Igreja do Rosário, em Serra Talhada (PE), é um dos templos religiosos mais tradicionais da cidade. Localizada no bairro do Rosário, ela se destaca pela arquitetura simples e histórica, típica das igrejas interioranas de Pernambuco.</p>
-    <p>O local é importante para a comunidade, especialmente por suas festividades religiosas, como a celebração em honra a Nossa Senhora do Rosário, que reúne fiéis e moradores.</p>
-</div>
-<div class="detail-language detail-copy-en">
-    <p>The Igreja do Rosário in Serra Talhada, Pernambuco, is one of the city’s traditional religious landmarks. Located in the Rosário neighborhood, it features a simple, historic architectural style typical of small churches in the region.</p>
-    <p>It plays an important role in the local community, especially during religious festivities dedicated to Our Lady of the Rosary, which attract residents and visitors.</p>
-</div>
-                    <div class="detail-lightbox"><label class="detail-lightbox-backdrop" for="zoom-rosario" aria-label="Fechar foto ampliada"></label><img src="../assets/img/pontos/igreja-do-rosario.jpg" alt="Igreja do Rosário ampliada"><label class="detail-lightbox-close" for="zoom-rosario" aria-label="Fechar foto ampliada">×</label></div>
-                </div>
-            </section>
-            <section class="place-detail" id="detalhe-penha">
-                <a class="detail-back" href="#pontos-turisticos" aria-label="Voltar para os pontos turísticos"><span aria-hidden="true">←</span><span class="detail-back-text">Voltar</span></a>
-                <div class="detail-shell">
-                    <input class="language-radio" type="radio" name="lang-penha" id="lang-pt-penha" checked><input class="language-radio" type="radio" name="lang-penha" id="lang-en-penha"><input class="zoom-toggle" type="checkbox" id="zoom-penha">
-                    <label class="detail-photo" for="zoom-penha"><img src="../assets/img/pontos/igreja-matriz-penha.jpg" alt="Igreja Matriz Nossa Senhora da Penha"><span class="zoom-hint">Ampliar foto</span></label>
-                    <div class="detail-copy"><span class="place-category">Patrimônio Religioso</span><h2>Igreja Matriz Nossa Senhora da Penha</h2><p class="place-location">Serra Talhada - Pernambuco</p><div class="language-switch" role="group" aria-label="Selecionar idioma"><label class="language-button" for="lang-pt-penha">Português</label><label class="language-button" for="lang-en-penha">English</label></div><div class="detail-language detail-copy-pt">
-    <p>A Igreja Matriz de Nossa Senhora da Penha é o coração religioso de Serra Talhada. Com sua arquitetura imponente, domina a praça central da cidade e serve como ponto de encontro para a comunidade.</p>
-    <p>Dedicada à padroeira da cidade, a igreja é palco das maiores celebrações religiosas da região, mantendo viva a tradição e a devoção do povo sertanejo.</p>
-</div>
-<div class="detail-language detail-copy-en">
-    <p>The Mother Church of Our Lady of Penha is the religious heart of Serra Talhada. With its imposing architecture, it dominates the city's central square and serves as a meeting point for the community.</p>
-    <p>Dedicated to the city's patron saint, the church hosts the region's largest religious celebrations, keeping alive the tradition and devotion of the backlands people.</p>
-</div>
-                    <div class="detail-lightbox"><label class="detail-lightbox-backdrop" for="zoom-penha" aria-label="Fechar foto ampliada"></label><img src="../assets/img/pontos/igreja-matriz-penha.jpg" alt="Igreja Matriz Nossa Senhora da Penha ampliada"><label class="detail-lightbox-close" for="zoom-penha" aria-label="Fechar foto ampliada">×</label></div>
-                </div>
-            </section>
-            <section class="place-detail" id="detalhe-cultura">
-                <a class="detail-back" href="#pontos-turisticos" aria-label="Voltar para os pontos turísticos"><span aria-hidden="true">←</span><span class="detail-back-text">Voltar</span></a>
-                <div class="detail-shell">
-                    <input class="language-radio" type="radio" name="lang-cultura" id="lang-pt-cultura" checked><input class="language-radio" type="radio" name="lang-cultura" id="lang-en-cultura"><input class="zoom-toggle" type="checkbox" id="zoom-cultura">
-                    <label class="detail-photo" for="zoom-cultura"><img src="../assets/img/pontos/casa-da-cultura.jpg" alt="Casa da Cultura"><span class="zoom-hint">Ampliar foto</span></label>
-                    <div class="detail-copy"><span class="place-category">Cultura</span><h2>Casa da Cultura</h2><p class="place-location">Serra Talhada - Pernambuco</p><div class="language-switch" role="group" aria-label="Selecionar idioma"><label class="language-button" for="lang-pt-cultura">Português</label><label class="language-button" for="lang-en-cultura">English</label></div><div class="detail-language detail-copy-pt">
-    <p>A Fundação Casa da Cultura de Serra Talhada é um espaço cultural localizado no centro de Serra Talhada, que resgata e preserva a memória e a história do sertão do Pajeú, com destaque para personagens e fatos marcantes da região, especialmente ligados ao cangaço.</p>
-    <p>O local funciona em um prédio histórico bem cuidado, com um acervo de fotografias, esculturas e objetos (incluindo itens atribuídos a Lampião) que oferecem ao visitante uma imersão na identidade cultural e no passado da cidade.</p>
-    <p>Apesar de não ser um espaço muito grande, a Casa da Cultura é agradável e gratuita, tornando-se um ponto indicado tanto para quem busca conhecimento sobre a cultura nordestina quanto para curiosos sobre a vida e as tradições do sertão pernambucano.</p>
-</div>
-<div class="detail-language detail-copy-en">
-    <p>The Fundação Casa da Cultura de Serra Talhada is a cultural space located in the center of Serra Talhada that preserves and highlights the memory and history of the Pajeú backlands, with special emphasis on notable figures and events of the region, particularly those related to the cangaço.</p>
-    <p>The site operates in a well-maintained historic building and features a collection of photographs, sculptures, and objects (including items attributed to Lampião) that offer visitors an immersive experience into the city’s cultural identity and past.</p>
-    <p>Although not a very large space, the Casa da Cultura is pleasant and free to visit, making it a recommended stop for those seeking knowledge about northeastern Brazilian culture as well as for anyone curious about the life and traditions of the Pernambuco hinterland.</p>
-</div>
-                    <div class="detail-lightbox"><label class="detail-lightbox-backdrop" for="zoom-cultura" aria-label="Fechar foto ampliada"></label><img src="../assets/img/pontos/casa-da-cultura.jpg" alt="Casa da Cultura ampliada"><label class="detail-lightbox-close" for="zoom-cultura" aria-label="Fechar foto ampliada">×</label></div>
-                </div>
-            </section>
-            <section class="place-detail" id="detalhe-almas">
-                <a class="detail-back" href="#pontos-turisticos" aria-label="Voltar para os pontos turísticos"><span aria-hidden="true">←</span><span class="detail-back-text">Voltar</span></a>
-                <div class="detail-shell">
-                    <input class="language-radio" type="radio" name="lang-almas" id="lang-pt-almas" checked><input class="language-radio" type="radio" name="lang-almas" id="lang-en-almas"><input class="zoom-toggle" type="checkbox" id="zoom-almas">
-                    <label class="detail-photo" for="zoom-almas"><img src="../assets/img/pontos/casa-grande-das-almas.jpg" alt="Casa Grande das Almas"><span class="zoom-hint">Ampliar foto</span></label>
-                    <div class="detail-copy"><span class="place-category">Patrimônio Histórico</span><h2>Casa Grande das Almas</h2><p class="place-location">Sertão de Pernambuco</p><div class="language-switch" role="group" aria-label="Selecionar idioma"><label class="language-button" for="lang-pt-almas">Português</label><label class="language-button" for="lang-en-almas">English</label></div><div class="detail-language detail-copy-pt">
-    <p>A Casa Grande das Almas em Triunfo (PE) é um casarão histórico do século XIX, famoso por estar na divisa entre Pernambuco e Paraíba, o que permitia ao cangaceiro Lampião se esconder da polícia alternando entre os estados.</p>
-    <p>Construída pelo coronel João Timóteo, a propriedade virou museu, mantendo a estrutura original, móveis de época e um sótão onde Lampião jogava cartas, além de ter um castelo inacabado e um cemitério particular.</p>
-</div>
-<div class="detail-language detail-copy-en">
-    <p>Casa Grande das Almas in Triunfo (PE) is a historic mansion from the 19th century, famous for being on the border between Pernambuco and Paraíba, which allowed the bandit Lampião to hide from the police by alternating between states.</p>
-    <p>Built by Colonel João Timóteo, the property became a museum, maintaining the original structure, period furniture, and an attic where Lampião played cards, as well as having an unfinished castle and a private cemetery.</p>
-</div>
-                    <div class="detail-lightbox"><label class="detail-lightbox-backdrop" for="zoom-almas" aria-label="Fechar foto ampliada"></label><img src="../assets/img/pontos/casa-grande-das-almas.jpg" alt="Casa Grande das Almas ampliada"><label class="detail-lightbox-close" for="zoom-almas" aria-label="Fechar foto ampliada">×</label></div>
-                </div>
-            </section>
-            <section class="place-detail" id="detalhe-castelo">
-                <a class="detail-back" href="#pontos-turisticos" aria-label="Voltar para os pontos turísticos"><span aria-hidden="true">←</span><span class="detail-back-text">Voltar</span></a>
-                <div class="detail-shell">
-                    <input class="language-radio" type="radio" name="lang-castelo" id="lang-pt-castelo" checked><input class="language-radio" type="radio" name="lang-castelo" id="lang-en-castelo"><input class="zoom-toggle" type="checkbox" id="zoom-castelo">
-                    <label class="detail-photo" for="zoom-castelo"><img src="../assets/img/pontos/castelo-armorial.jpg" alt="Castelo Armorial"><span class="zoom-hint">Ampliar foto</span></label>
-                    <div class="detail-copy"><span class="place-category">Arte e Cultura</span><h2>Castelo Armorial</h2><p class="place-location">Sertão de Pernambuco</p><div class="language-switch" role="group" aria-label="Selecionar idioma"><label class="language-button" for="lang-pt-castelo">Português</label><label class="language-button" for="lang-en-castelo">English</label></div><div class="detail-language detail-copy-pt">
-    <p>Em São José do Belmonte ergue-se o Castelo Armorial, uma construção de mais de 15 metros de altura que funciona como museu dedicado à cultura sertaneja e ao Movimento Armorial, idealizado por Ariano Suassuna.</p>
-    <p>A obra combina elementos medievais, barrocos e mouriscos com referências ao imaginário nordestino. O interior abriga iluminogravuras de Ariano Suassuna, xilogravuras de J. Borges e memórias históricas da região.</p>
-    <p>O espaço funciona como síntese artística da cultura nordestina e celebra o artesanato, a música, a literatura e a tradição sertaneja.</p>
-</div>
-<div class="detail-language detail-copy-en">
-    <p>In São José do Belmonte stands the Armorial Castle, a structure over 15 meters high that functions as a museum dedicated to backlands culture and the Armorial Movement, created by Ariano Suassuna.</p>
-    <p>The structure combines medieval, Baroque, and Moorish elements with references to Northeastern Brazilian folklore. Inside, it houses 'illuminogravuras' by Ariano Suassuna, woodcuts by J. Borges, and historical records.</p>
-    <p>The space serves as a visual synthesis of Northeastern Brazilian culture, celebrating craftsmanship, music, literature, and the traditions of the backlands.</p>
-</div>
-                    <div class="detail-lightbox"><label class="detail-lightbox-backdrop" for="zoom-castelo" aria-label="Fechar foto ampliada"></label><img src="../assets/img/pontos/castelo-armorial.jpg" alt="Castelo Armorial ampliado"><label class="detail-lightbox-close" for="zoom-castelo" aria-label="Fechar foto ampliada">×</label></div>
-                </div>
-            </section>
-            <section class="place-detail" id="detalhe-engenho">
-                <a class="detail-back" href="#pontos-turisticos" aria-label="Voltar para os pontos turísticos"><span aria-hidden="true">←</span><span class="detail-back-text">Voltar</span></a>
-                <div class="detail-shell">
-                    <input class="language-radio" type="radio" name="lang-engenho" id="lang-pt-engenho" checked><input class="language-radio" type="radio" name="lang-engenho" id="lang-en-engenho"><input class="zoom-toggle" type="checkbox" id="zoom-engenho">
-                    <label class="detail-photo" for="zoom-engenho"><img src="../assets/img/pontos/engenho-sao-pedro.jpg" alt="Engenho São Pedro"><span class="zoom-hint">Ampliar foto</span></label>
-                    <div class="detail-copy"><span class="place-category">Patrimônio Histórico</span><h2>Engenho São Pedro</h2><p class="place-location">Sertão de Pernambuco</p><div class="language-switch" role="group" aria-label="Selecionar idioma"><label class="language-button" for="lang-pt-engenho">Português</label><label class="language-button" for="lang-en-engenho">English</label></div><div class="detail-language detail-copy-pt">
-    <p>O Engenho de São Pedro é um dos principais símbolos históricos e culturais de Triunfo, em Pernambuco, e hoje figura entre os lugares mais visitados por quem deseja conhecer a tradição da cachaça artesanal no Sertão do Pajeú.</p>
-    <p>O visitante acompanha desde a moagem da cana até a fermentação e a destilação nos tradicionais alambiques de cobre — tudo feito de forma artesanal, preservando técnicas que atravessam gerações.</p>
-    <p>O local mantém sua estrutura histórica, com moendas e galpões que ajudam a contar a trajetória da produção rural em Triunfo, oferecendo uma atmosfera tranquila e acolhedora.</p>
-</div>
-<div class="detail-language detail-copy-en">
-    <p>The São Pedro Engenho is one of the main historical and cultural landmarks of Triunfo, Pernambuco, and today stands among the most visited places for those who want to experience the tradition of artisanal cachaça production in the Sertão do Pajeú.</p>
-    <p>Visitors can observe every step of the process — from grinding the sugarcane to fermentation and distillation in traditional copper stills — all crafted using techniques passed down through generations.</p>
-    <p>The site preserves its historic structure, with old mills and warehouses that help tell the story of rural production in Triunfo, offering a peaceful and welcoming atmosphere.</p>
-</div>
-                    <div class="detail-lightbox"><label class="detail-lightbox-backdrop" for="zoom-engenho" aria-label="Fechar foto ampliada"></label><img src="../assets/img/pontos/engenho-sao-pedro.jpg" alt="Engenho São Pedro ampliado"><label class="detail-lightbox-close" for="zoom-engenho" aria-label="Fechar foto ampliada">×</label></div>
-                </div>
-            </section>
-            <section class="place-detail" id="detalhe-estadio">
-                <a class="detail-back" href="#pontos-turisticos" aria-label="Voltar para os pontos turísticos"><span aria-hidden="true">←</span><span class="detail-back-text">Voltar</span></a>
-                <div class="detail-shell">
-                    <input class="language-radio" type="radio" name="lang-estadio" id="lang-pt-estadio" checked><input class="language-radio" type="radio" name="lang-estadio" id="lang-en-estadio"><input class="zoom-toggle" type="checkbox" id="zoom-estadio">
-                    <label class="detail-photo" for="zoom-estadio"><img src="../assets/img/pontos/estadio-cornelio-de-barros.jpg" alt="Estádio Cornélio de Barros"><span class="zoom-hint">Ampliar foto</span></label>
-                    <div class="detail-copy"><span class="place-category">Esporte</span><h2>Estádio Cornélio de Barros</h2><p class="place-location">Sertão de Pernambuco</p><div class="language-switch" role="group" aria-label="Selecionar idioma"><label class="language-button" for="lang-pt-estadio">Português</label><label class="language-button" for="lang-en-estadio">English</label></div><div class="detail-language detail-copy-pt">
-    <p>O Estádio Municipal Cornélio de Barros, mais conhecido como Salgueirão, é o estádio de futebol da cidade de Salgueiro, tradicional casa do Salgueiro Atlético Clube.</p>
-    <p>Inaugurado em 1972 e ampliado em 2012 para receber jogos da Série B, o estádio se tornou um símbolo do futebol no interior pernambucano, palco de jogos marcantes e campanhas fortes do time local.</p>
-</div>
-<div class="detail-language detail-copy-en">
-    <p>The Municipal Stadium Cornélio de Barros, widely known as Salgueirão, is the football stadium of the city of Salgueiro and the traditional home of Salgueiro Atlético Clube.</p>
-    <p>Inaugurated in 1972 and expanded in 2012 to host Série B matches, the stadium became a symbol of football in the Pernambuco countryside, hosting memorable matches and strong campaigns by the local team.</p>
-</div>
-                    <div class="detail-lightbox"><label class="detail-lightbox-backdrop" for="zoom-estadio" aria-label="Fechar foto ampliada"></label><img src="../assets/img/pontos/estadio-cornelio-de-barros.jpg" alt="Estádio Cornélio de Barros ampliado"><label class="detail-lightbox-close" for="zoom-estadio" aria-label="Fechar foto ampliada">×</label></div>
-                </div>
-            </section>
-            <section class="place-detail" id="detalhe-dores">
-                <a class="detail-back" href="#pontos-turisticos" aria-label="Voltar para os pontos turísticos"><span aria-hidden="true">←</span><span class="detail-back-text">Voltar</span></a>
-                <div class="detail-shell">
-                    <input class="language-radio" type="radio" name="lang-dores" id="lang-pt-dores" checked><input class="language-radio" type="radio" name="lang-dores" id="lang-en-dores"><input class="zoom-toggle" type="checkbox" id="zoom-dores">
-                    <label class="detail-photo" for="zoom-dores"><img src="../assets/img/pontos/igreja-matriz-dores.jpg" alt="Igreja Matriz das Dores"><span class="zoom-hint">Ampliar foto</span></label>
-                    <div class="detail-copy"><span class="place-category">Patrimônio Religioso</span><h2>Igreja Matriz das Dores</h2><p class="place-location">Sertão de Pernambuco</p><div class="language-switch" role="group" aria-label="Selecionar idioma"><label class="language-button" for="lang-pt-dores">Português</label><label class="language-button" for="lang-en-dores">English</label></div><div class="detail-language detail-copy-pt">
-    <p>A Igreja Matriz de Nossa Senhora das Dores em Triunfo, Pernambuco, é um importante patrimônio cultural e religioso, com um belo estilo eclético, notável campanário e grande escadaria.</p>
-    <p>Sendo a padroeira da cidade, a igreja é um marco turístico no alto da Serra da Baixa Verde, local de fé e devoção para os triunfenses, tombada como patrimônio histórico.</p>
-</div>
-<div class="detail-language detail-copy-en">
-    <p>The Igreja Matriz de Nossa Senhora das Dores in Triunfo, Pernambuco, is an important cultural and religious heritage, with a beautiful eclectic style, notable bell tower, and large staircase.</p>
-    <p>As the patron saint of the city, the church is a tourist landmark at the top of the Serra da Baixa Verde, a place of faith and devotion for the people of Triunfo, listed as historical heritage.</p>
-</div>
-                    <div class="detail-lightbox"><label class="detail-lightbox-backdrop" for="zoom-dores" aria-label="Fechar foto ampliada"></label><img src="../assets/img/pontos/igreja-matriz-dores.jpg" alt="Igreja Matriz das Dores ampliada"><label class="detail-lightbox-close" for="zoom-dores" aria-label="Fechar foto ampliada">×</label></div>
-                </div>
-            </section>
-            <section class="place-detail" id="detalhe-mirante">
-                <a class="detail-back" href="#pontos-turisticos" aria-label="Voltar para os pontos turísticos"><span aria-hidden="true">←</span><span class="detail-back-text">Voltar</span></a>
-                <div class="detail-shell">
-                    <input class="language-radio" type="radio" name="lang-mirante" id="lang-pt-mirante" checked><input class="language-radio" type="radio" name="lang-mirante" id="lang-en-mirante"><input class="zoom-toggle" type="checkbox" id="zoom-mirante">
-                    <label class="detail-photo" for="zoom-mirante"><img src="../assets/img/pontos/mirante-serra-talhada.jpg" alt="Vista do Mirante Serra Talhada"><span class="zoom-hint">Ampliar foto</span></label>
-                    <div class="detail-copy"><span class="place-category">Paisagem Natural</span><h2>Mirante Serra Talhada</h2><p class="place-location">Serra Talhada - Pernambuco</p><div class="language-switch" role="group" aria-label="Selecionar idioma"><label class="language-button" for="lang-pt-mirante">Português</label><label class="language-button" for="lang-en-mirante">English</label></div><div class="detail-language detail-copy-pt">
-    <p>O Mirante Serra Talhada é um ponto de observação natural na zona rural de Serra Talhada (Pernambuco), conhecido por oferecer vistas panorâmicas da cidade, da serra e do sertão ao redor — ideal para fotos e contemplação da paisagem, especialmente no pôr do sol.</p>
-    <p>O acesso pode ser feito por estrada de terra e não há infraestrutura turística oficial, sendo recomendado ir com cuidado e, se possível, com alguém que conheça a região.</p>
-</div>
-<div class="detail-language detail-copy-en">
-    <p>The Mirante Serra Talhada is a natural viewpoint located in the rural area of Serra Talhada, Pernambuco, Brazil. It’s known for its wide panoramic views of the city, surrounding hills, and the sertão landscape, making it a great spot for photos and sunset watching.</p>
-    <p>The road to the viewpoint is mostly dirt and there’s no official tourist infrastructure, so it’s recommended to go carefully and, if possible, with someone who knows the region.</p>
-</div>
-                    <div class="detail-lightbox"><label class="detail-lightbox-backdrop" for="zoom-mirante" aria-label="Fechar foto ampliada"></label><img src="../assets/img/pontos/mirante-serra-talhada.jpg" alt="Mirante Serra Talhada ampliado"><label class="detail-lightbox-close" for="zoom-mirante" aria-label="Fechar foto ampliada">×</label></div>
-                </div>
-            </section>
-            <section class="place-detail" id="detalhe-museu">
-                <a class="detail-back" href="#pontos-turisticos" aria-label="Voltar para os pontos turísticos"><span aria-hidden="true">←</span><span class="detail-back-text">Voltar</span></a>
-                <div class="detail-shell">
-                    <input class="language-radio" type="radio" name="lang-museu" id="lang-pt-museu" checked><input class="language-radio" type="radio" name="lang-museu" id="lang-en-museu"><input class="zoom-toggle" type="checkbox" id="zoom-museu">
-                    <label class="detail-photo" for="zoom-museu"><img src="../assets/img/pontos/museu-do-cangaco.jpg" alt="Museu do Cangaço"><span class="zoom-hint">Ampliar foto</span></label>
-                    <div class="detail-copy"><span class="place-category">Museu e Memória</span><h2>Museu do Cangaço</h2><p class="place-location">Serra Talhada - Pernambuco</p><div class="language-switch" role="group" aria-label="Selecionar idioma"><label class="language-button" for="lang-pt-museu">Português</label><label class="language-button" for="lang-en-museu">English</label></div><div class="detail-language detail-copy-pt">
-    <p>O Museu do Cangaço de Serra Talhada abriga o maior acervo do gênero no Brasil. Localizado na antiga estação ferroviária, o museu preserva objetos, fotos e documentos que contam a saga de Virgulino Ferreira da Silva, o Lampião.</p>
-    <p>A visita oferece uma perspectiva rica sobre o fenômeno social e cultural do cangaço, fundamental para entender a história do sertão nordestino.</p>
-</div>
-<div class="detail-language detail-copy-en">
-    <p>The Cangaço Museum in Serra Talhada houses the largest collection of its kind in Brazil. Located in the old railway station, the museum preserves objects, photos, and documents that tell the saga of Virgulino Ferreira da Silva, known as Lampião.</p>
-    <p>The visit offers a rich perspective on the social and cultural phenomenon of cangaço, essential for understanding the history of the Brazilian backlands.</p>
-</div>
-                    <div class="detail-lightbox"><label class="detail-lightbox-backdrop" for="zoom-museu" aria-label="Fechar foto ampliada"></label><img src="../assets/img/pontos/museu-do-cangaco.jpg" alt="Museu do Cangaço ampliado"><label class="detail-lightbox-close" for="zoom-museu" aria-label="Fechar foto ampliada">×</label></div>
-                </div>
-            </section>
-            <section class="place-detail" id="detalhe-reino">
-                <a class="detail-back" href="#pontos-turisticos" aria-label="Voltar para os pontos turísticos"><span aria-hidden="true">←</span><span class="detail-back-text">Voltar</span></a>
-                <div class="detail-shell">
-                    <input class="language-radio" type="radio" name="lang-reino" id="lang-pt-reino" checked><input class="language-radio" type="radio" name="lang-reino" id="lang-en-reino"><input class="zoom-toggle" type="checkbox" id="zoom-reino">
-                    <label class="detail-photo" for="zoom-reino"><img src="../assets/img/pontos/pedra-do-reino.jpg" alt="Formação rochosa da Pedra do Reino"><span class="zoom-hint">Ampliar foto</span></label>
-                    <div class="detail-copy"><span class="place-category">Paisagem Natural</span><h2>Pedra do Reino</h2><p class="place-location">Sertão de Pernambuco</p><div class="language-switch" role="group" aria-label="Selecionar idioma"><label class="language-button" for="lang-pt-reino">Português</label><label class="language-button" for="lang-en-reino">English</label></div><div class="detail-language detail-copy-pt">
-    <p>A Pedra do Reino, ou Pedra Bonita, é um conjunto de duas formações rochosas de cerca de 30 metros de altura, situadas em São José do Belmonte (PE). Tornou-se famosa pelo movimento messiânico sebastianista ocorrido entre 1836 e 1838.</p>
-    <p>O episódio inspirou diversas obras, como 'O Romance d'A Pedra do Reino' de Ariano Suassuna. Todo ano em maio, ocorre a Cavalgada à Pedra do Reino, celebração ligada à tradição armorial.</p>
-</div>
-<div class="detail-language detail-copy-en">
-    <p>The Pedra do Reino, also known as Pedra Bonita, is a pair of rock formations about 30 meters tall, located in São José do Belmonte, Pernambuco. It became famous as the site of a Sebastianist messianic movement between 1836 and 1838.</p>
-    <p>The episode inspired several works, including Ariano Suassuna’s 'Romance d’A Pedra do Reino'. Every year in May, the Cavalgada to the Pedra do Reino takes place, a celebration linked to the Armorial tradition.</p>
-</div>
-                    <div class="detail-lightbox"><label class="detail-lightbox-backdrop" for="zoom-reino" aria-label="Fechar foto ampliada"></label><img src="../assets/img/pontos/pedra-do-reino.jpg" alt="Pedra do Reino ampliada"><label class="detail-lightbox-close" for="zoom-reino" aria-label="Fechar foto ampliada">×</label></div>
-                </div>
-            </section>
-            <section class="place-detail" id="detalhe-papagaio">
-                <a class="detail-back" href="#pontos-turisticos" aria-label="Voltar para os pontos turísticos"><span aria-hidden="true">←</span><span class="detail-back-text">Voltar</span></a>
-                <div class="detail-shell">
-                    <input class="language-radio" type="radio" name="lang-papagaio" id="lang-pt-papagaio" checked><input class="language-radio" type="radio" name="lang-papagaio" id="lang-en-papagaio"><input class="zoom-toggle" type="checkbox" id="zoom-papagaio">
-                    <label class="detail-photo" for="zoom-papagaio"><img src="../assets/img/pontos/pico-do-papagaio.jpg" alt="Pico do Papagaio"><span class="zoom-hint">Ampliar foto</span></label>
-                    <div class="detail-copy"><span class="place-category">Paisagem Natural</span><h2>Pico do Papagaio</h2><p class="place-location">Sertão de Pernambuco</p><div class="language-switch" role="group" aria-label="Selecionar idioma"><label class="language-button" for="lang-pt-papagaio">Português</label><label class="language-button" for="lang-en-papagaio">English</label></div><div class="detail-language detail-copy-pt">
-    <p>O Pico do Papagaio, situado em Triunfo, é um dos pontos mais altos de Pernambuco, alcançando cerca de 1.185 metros de altitude. Conhecido pela vista ampla do sertão, o local possui um mirante natural que permite observar vales e serras.</p>
-    <p>No topo, há também a estátua de um Careta, figura tradicional do carnaval triunfense. Graças ao clima ameno e ao cenário impressionante, é ideal para quem busca natureza e um pôr do sol marcante.</p>
-</div>
-<div class="detail-language detail-copy-en">
-    <p>Pico do Papagaio, located in Triunfo, is one of the highest points in Pernambuco, reaching approximately 1,185 meters in altitude. Known for its expansive views of the Sertão region, the site boasts a natural viewpoint offering panoramic views.</p>
-    <p>At the summit, there is also a statue of a Careta, a traditional figure from the Triunfo carnival. Thanks to its milder climate and impressive scenery, it is ideal for those seeking nature and a striking sunset.</p>
-</div>
-                    <div class="detail-lightbox"><label class="detail-lightbox-backdrop" for="zoom-papagaio" aria-label="Fechar foto ampliada"></label><img src="../assets/img/pontos/pico-do-papagaio.jpg" alt="Pico do Papagaio ampliado"><label class="detail-lightbox-close" for="zoom-papagaio" aria-label="Fechar foto ampliada">×</label></div>
-                </div>
-            </section>
-            <section class="place-detail" id="detalhe-pajeu">
-                <a class="detail-back" href="#pontos-turisticos" aria-label="Voltar para os pontos turísticos"><span aria-hidden="true">←</span><span class="detail-back-text">Voltar</span></a>
-                <div class="detail-shell">
-                    <input class="language-radio" type="radio" name="lang-pajeu" id="lang-pt-pajeu" checked><input class="language-radio" type="radio" name="lang-pajeu" id="lang-en-pajeu"><input class="zoom-toggle" type="checkbox" id="zoom-pajeu">
-                    <label class="detail-photo" for="zoom-pajeu"><img src="../assets/img/pontos/rio-pajeu.jpg" alt="Rio Pajeú"><span class="zoom-hint">Ampliar foto</span></label>
-                    <div class="detail-copy"><span class="place-category">Paisagem Natural</span><h2>Rio Pajeú</h2><p class="place-location">Sertão de Pernambuco</p><div class="language-switch" role="group" aria-label="Selecionar idioma"><label class="language-button" for="lang-pt-pajeu">Português</label><label class="language-button" for="lang-en-pajeu">English</label></div><div class="detail-language detail-copy-pt">
-    <p>O Rio Pajeú nasce na serra da Balança, em Brejinho, e é um dos principais afluentes do rio São Francisco. É um rio sazonal que abastece 28 municípios do sertão pernambucano.</p>
-    <p>Famoso por inspirar canções como as de Luiz Gonzaga e obras literárias, o Pajeú é fundamental para a identidade cultural e econômica das cidades que banha, como Serra Talhada e Flores.</p>
-</div>
-<div class="detail-language detail-copy-en">
-    <p>The Pajeú River originates in the Serra da Balança and is one of the main tributaries of the São Francisco River. It is a seasonal river that supplies 28 municipalities in the Pernambuco backlands.</p>
-    <p>Famous for inspiring songs by Luiz Gonzaga and literary works, the Pajeú is essential to the cultural and economic identity of the cities along its banks, such as Serra Talhada and Flores.</p>
-</div>
-                    <div class="detail-lightbox"><label class="detail-lightbox-backdrop" for="zoom-pajeu" aria-label="Fechar foto ampliada"></label><img src="../assets/img/pontos/rio-pajeu.jpg" alt="Rio Pajeú ampliado"><label class="detail-lightbox-close" for="zoom-pajeu" aria-label="Fechar foto ampliada">×</label></div>
-                </div>
-            </section>
-            <section class="place-detail" id="detalhe-theatro">
-                <a class="detail-back" href="#pontos-turisticos" aria-label="Voltar para os pontos turísticos"><span aria-hidden="true">←</span><span class="detail-back-text">Voltar</span></a>
-                <div class="detail-shell">
-                    <input class="language-radio" type="radio" name="lang-theatro" id="lang-pt-theatro" checked><input class="language-radio" type="radio" name="lang-theatro" id="lang-en-theatro"><input class="zoom-toggle" type="checkbox" id="zoom-theatro">
-                    <label class="detail-photo" for="zoom-theatro"><img src="../assets/img/pontos/theatro-cinema-guarany.jpg" alt="Theatro Cinema Guarany"><span class="zoom-hint">Ampliar foto</span></label>
-                    <div class="detail-copy"><span class="place-category">Patrimônio Cultural</span><h2>Theatro Cinema Guarany</h2><p class="place-location">Sertão de Pernambuco</p><div class="language-switch" role="group" aria-label="Selecionar idioma"><label class="language-button" for="lang-pt-theatro">Português</label><label class="language-button" for="lang-en-theatro">English</label></div><div class="detail-language detail-copy-pt">
-    <p>Ícone do audiovisual e das artes cênicas no interior do estado, o Cine Theatro Guarany, localizado na cidade de Triunfo, é uma das principais atrações turísticas do sertão pernambucano.</p>
-    <p>Construído em 1922, é uma edificação de grande porte que se destaca no conjunto urbano da cidade. É sede do Festival de Cinema de Triunfo e dispõe de uma programação regular de cinema e espetáculos.</p>
-</div>
-<div class="detail-language detail-copy-en">
-    <p>A landmark of audiovisual and performing arts in the interior of the state, the Cine Theatro Guarany, located in the city of Triunfo, is one of the main tourist attractions of the Pernambuco hinterland.</p>
-    <p>Built in 1922, it is a large building that stands out in the city's urban landscape. It hosts the Triunfo Film Festival and has a regular program of films and performances.</p>
-</div>
-                    <div class="detail-lightbox"><label class="detail-lightbox-backdrop" for="zoom-theatro" aria-label="Fechar foto ampliada"></label><img src="../assets/img/pontos/theatro-cinema-guarany.jpg" alt="Theatro Cinema Guarany ampliado"><label class="detail-lightbox-close" for="zoom-theatro" aria-label="Fechar foto ampliada">×</label></div>
-                </div>
-            </section>
-        </div>
     </main>
-
     <footer class="site-footer">
         <div class="section-inner footer-inner">
             <div>
                 <h2>Connect Culture</h2>
-                <p>Projeto desenvolvido pelos alunos do curso MEDIOTEC – Técnico em Desenvolvimento de Sistemas do Senac Serra Talhada.</p>
+                <p data-t="rodapeTexto">Projeto desenvolvido pelos alunos do curso MEDIOTEC – Técnico em Desenvolvimento de Sistemas do Senac Serra Talhada.</p>
             </div>
             <div class="footer-contact">
-                <h3>Contato</h3>
+                <h3 data-t="contato">Contato</h3>
                 <p>Senac Serra Talhada</p>
                 <p>Serra Talhada - PE</p>
             </div>
-            <small>© 2025 Connect Culture. Todos os direitos reservados.</small>
+            <small data-t="direitos">© 2026 Connect Culture. Todos os direitos reservados.</small>
         </div>
     </footer>
+    <script src="../scripts/idioma.js"></script>
+    <script src="../scripts/dados.js"></script>
+    <script src="../scripts/pontos.js"></script>
+    <div vw class="enabled">
+        <div vw-access-button class="active"></div>
+        <div vw-plugin-wrapper>
+            <div class="vw-plugin-top-wrapper"></div>
+        </div>
+    </div>
+    <script src="https://vlibras.gov.br/app/vlibras-plugin.js"></script>
+    <script src="../scripts/vlibras.js"></script>
 </body>
 </html>
