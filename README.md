@@ -1,1 +1,1 @@
-
+O Connect Culture é um projeto que integra tecnologia, educação e cultura para valorizar a história de Serra Talhada. Através de páginas digitais, QR Codes e conteúdos em português e inglês, o projeto busca modernizar espaços culturais, facilitar o acesso às informações e proporcionar uma experiência mais interativa e acessível aos visitantes.
