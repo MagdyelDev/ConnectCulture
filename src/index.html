@@ -6,6 +6,7 @@
     <title>Connect Culture</title>
     <link rel="stylesheet" href="./styles/style.css">
     <link rel="stylesheet" href="./styles/home.css">
+    <link rel="stylesheet" href="./styles/content.css">
 </head>
 <body>
     <header class="header">
@@ -13,10 +14,25 @@
             <a href="index.html" class="logo">
                 <img src="./assets/img/logo.png" alt="Connect Culture">
             </a>
-            <nav class="navigation">
-                <a href="index.html" class="active">Início</a>
-                <a href="./pages/pontos.html">Pontos Turísticos</a>
-                <a href="./pages/sobre.html">Sobre</a>
+            <input class="menu-checkbox" type="checkbox" id="mobile-menu" aria-label="Abrir menu">
+            <label class="menu-toggle" for="mobile-menu" aria-hidden="true">
+                <span></span>
+                <span></span>
+                <span></span>
+            </label>
+            <nav class="navigation" id="main-navigation">
+                <a href="index.html" class="active">
+                    Início
+                    <svg class="navigation-icon" viewBox="0 0 24 24" aria-hidden="true"><path d="m3 10 9-7 9 7v10a1 1 0 0 1-1 1h-6v-7h-4v7H4a1 1 0 0 1-1-1z" /></svg>
+                </a>
+                <a href="./pages/pontos.html">
+                    Pontos Turísticos
+                    <svg class="navigation-icon" viewBox="0 0 24 24" aria-hidden="true"><path d="M20 10c0 5-8 12-8 12S4 15 4 10a8 8 0 1 1 16 0Z" /><circle cx="12" cy="10" r="2.5" /></svg>
+                </a>
+                <a href="./pages/sobre.html">
+                    Sobre
+                    <svg class="navigation-icon" viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="12" r="9" /><path d="M12 11v5m0-8h.01" /></svg>
+                </a>
             </nav>
         </div>
     </header>
@@ -35,9 +51,52 @@
                     Integrando tecnologia, educação e cultura para valorizar a
                     história local e ampliar a experiência dos visitantes.
                 </p>
-                <a href="./pages/pontos.html" class="hero-button">
-                    Explorar cultura
+                <a href="https://connectculture.vercel.app/#sobre" class="hero-button">
+                    Saiba Mais
                 </a>
+            </div>
+            <a class="scroll-cue" href="#introducao" aria-label="Descer para a introdução">
+                <span aria-hidden="true">↓</span>
+            </a>
+        </section>
+
+        <section class="content-section intro-section" id="introducao">
+            <div class="section-inner intro-layout">
+                <div class="section-heading">
+                    <span class="eyebrow">Cultura sem fronteiras</span>
+                    <h2>Introdução</h2>
+                </div>
+                <p class="lead-copy">O Connect Culture é uma iniciativa desenvolvida pelos alunos do curso MEDIOTEC – Técnico em Desenvolvimento de Sistemas do Senac Serra Talhada. O projeto nasce da necessidade de integrar tecnologia, educação e cultura, tornando os espaços culturais da cidade mais acessíveis, atrativos e conectados com o público atual. Através da inovação digital, busca-se valorizar a história local e ampliar a experiência dos visitantes, oferecendo novas possibilidades de interação com pontos turísticos, museus e exposições.</p>
+            </div>
+        </section>
+
+        <section class="content-section places-section" id="pontos-turisticos">
+            <div class="section-inner">
+                <div class="section-heading section-heading-row">
+                    <div>
+                        <span class="eyebrow">Serra Talhada e região</span>
+                        <h2>Pontos Turísticos</h2>
+                    </div>
+                    <p>Explore alguns dos principais pontos turísticos e culturais de Serra Talhada e região através da tecnologia e da experiência digital.</p>
+                </div>
+                <a class="featured-place" href="./pages/pontos.html">
+                    <img src="./assets/img/igreja.png" alt="Igreja de Serra Talhada">
+                    <span class="featured-place-label">
+                        <span class="eyebrow">Conheça um dos destaques</span>
+                        <strong>Igreja de Serra Talhada</strong>
+                        <span class="text-link">Explorar <span aria-hidden="true">↗</span></span>
+                    </span>
+                </a>
+            </div>
+        </section>
+
+        <section class="project-callout" id="sobre">
+            <div class="section-inner callout-inner">
+                <div>
+                    <span class="eyebrow">Tecnologia, educação e cultura</span>
+                    <h2>Uma nova forma de conhecer a história local.</h2>
+                </div>
+                <a class="hero-button" href="./pages/sobre.html">Conheça o projeto</a>
             </div>
         </section>
     </main>
