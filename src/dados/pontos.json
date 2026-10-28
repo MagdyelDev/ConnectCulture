@@ -1,0 +1,2370 @@
+[
+  {
+    "slug": "catedral-bom-jesus-dos-remedios",
+    "cidade": "afogados-da-ingazeira",
+    "nome": "Catedral do Senhor Bom Jesus dos Remédios",
+    "categoria": "Patrimônio Religioso",
+    "categoria_en": "Religious Heritage",
+    "endereco": "Praça Monsenhor Alfredo de Arruda Câmara, Centro, Afogados da Ingazeira - PE, 56800-000",
+    "latitude": -7.750198,
+    "longitude": -37.63822,
+    "status_coordenadas": "conferida",
+    "descricao": "Principal igreja de Afogados da Ingazeira, com arquitetura marcante e imponente. É um local de fé em que a população participa ativamente das celebrações.",
+    "descricao_en": "The main church of Afogados da Ingazeira, with striking, imposing architecture. It is a place of faith, and the local community takes an active part in its celebrations.",
+    "status_en": "revisado-2026",
+    "curiosidades": [],
+    "imagens": [
+      {
+        "arquivo": "catedral-bom-jesus-dos-remedios.jpg",
+        "fonte": "Pinterest / blog nilljunior.com.br",
+        "direitos": "verificar",
+        "legenda": ""
+      }
+    ],
+    "origem": "pesquisa 2026",
+    "url_legado": null,
+    "pendencias": [
+      "A curiosidade da pesquisa (\"sedia o Encontro de Motociclistas e a festa dos Tabaqueiros\") parece ser da cidade, não da igreja — confirmar antes de publicar.",
+      "Coordenada conferida pelos alunos no Google Maps (27/10/2026)."
+    ]
+  },
+  {
+    "slug": "barragem-de-brotas",
+    "cidade": "afogados-da-ingazeira",
+    "nome": "Barragem de Brotas",
+    "categoria": "Natureza",
+    "categoria_en": "Nature",
+    "endereco": "Zona rural, Afogados da Ingazeira - PE",
+    "latitude": -7.745648,
+    "longitude": -37.622971,
+    "status_coordenadas": "conferida",
+    "descricao": "Importante reservatório que serve como área de lazer e turismo para a população local.",
+    "descricao_en": "An important reservoir that serves as a leisure and tourism area for local residents.",
+    "status_en": "revisado-2026",
+    "curiosidades": [
+      {
+        "texto": "Um oásis em meio à caatinga, muito frequentado nos fins de semana.",
+        "texto_en": "An oasis in the middle of the caatinga (dry scrub forest), very popular on weekends."
+      }
+    ],
+    "imagens": [
+      {
+        "arquivo": "barragem-de-brotas.jpg",
+        "fonte": "",
+        "direitos": "verificar",
+        "legenda": ""
+      }
+    ],
+    "origem": "pesquisa 2026",
+    "url_legado": null,
+    "pendencias": [
+      "Coordenada conferida pelos alunos no Google Maps (27/10/2026)."
+    ]
+  },
+  {
+    "slug": "serra-do-giz",
+    "cidade": "afogados-da-ingazeira",
+    "nome": "Serra do Giz",
+    "categoria": "Patrimônio Histórico",
+    "categoria_en": "Historical Heritage",
+    "endereco": "Zona rural, Afogados da Ingazeira / Carnaíba - PE",
+    "latitude": -7.885429,
+    "longitude": -37.639825,
+    "status_coordenadas": "conferida",
+    "descricao": "Um dos sítios arqueológicos pré-históricos mais importantes do Nordeste, com pinturas rupestres milenares. Desde 2019 é um Refúgio de Vida Silvestre, unidade de conservação que protege a caatinga. Fica entre Afogados da Ingazeira e Carnaíba.",
+    "descricao_en": "One of the most important prehistoric archaeological sites in Northeast Brazil, with rock paintings thousands of years old. Since 2019 it has been a Wildlife Refuge, a protected area that conserves the caatinga. It lies between Afogados da Ingazeira and Carnaíba.",
+    "status_en": "revisado-2026",
+    "curiosidades": [
+      {
+        "texto": "O nome vem da argila branca sob o arenito, que os moradores chamam de \"giz\".",
+        "texto_en": "The name comes from the white clay under the sandstone, which locals call \"giz\" (chalk)."
+      },
+      {
+        "texto": "As pinturas rupestres mostram a ocupação humana pré-histórica da região.",
+        "texto_en": "The rock paintings show that the region was inhabited in prehistoric times."
+      }
+    ],
+    "imagens": [
+      {
+        "arquivo": "serra-do-giz.jpg",
+        "fonte": "g1 — foto Luana Rocha/SEMAS-PE",
+        "direitos": "verificar",
+        "legenda": ""
+      }
+    ],
+    "origem": "pesquisa 2026",
+    "url_legado": null,
+    "pendencias": [
+      "A imagem estava na pasta de Flores, mas a Serra do Giz fica em Afogados/Carnaíba.",
+      "Foto com autoria (Luana Rocha/SEMAS-PE): pedir autorização ou trocar.",
+      "Localização: Vértice do perímetro do RVS Serra do Giz (decreto estadual) — ponto dentro da unidade, não a entrada.",
+      "Coordenada conferida pelos alunos no Google Maps (27/10/2026)."
+    ]
+  },
+  {
+    "slug": "cinema-teatro-sao-jose",
+    "cidade": "afogados-da-ingazeira",
+    "nome": "Cinema-Teatro São José",
+    "categoria": "Cultura",
+    "categoria_en": "Culture",
+    "endereco": "Centro, Afogados da Ingazeira - PE",
+    "latitude": -7.7495,
+    "longitude": -37.6385,
+    "status_coordenadas": "aproximada",
+    "descricao": "Um dos poucos cinemas do interior de Pernambuco ainda em funcionamento, patrimônio cultural da cidade que mantém viva a tradição do cinema no sertão.",
+    "descricao_en": "One of the few cinemas still operating in the interior of Pernambuco, a cultural landmark of the town that keeps the tradition of cinema alive in the sertão.",
+    "status_en": "revisado-2026",
+    "curiosidades": [],
+    "imagens": [
+      {
+        "arquivo": "cinema-teatro-sao-jose.jpg",
+        "fonte": "",
+        "direitos": "verificar",
+        "legenda": ""
+      }
+    ],
+    "origem": "pesquisa 2026",
+    "url_legado": null,
+    "pendencias": [
+      "Confirmar se o cinema continua em funcionamento.",
+      "Coordenada aproximada (centro da cidade)."
+    ]
+  },
+  {
+    "slug": "radio-pajeu-museu-do-radio",
+    "cidade": "afogados-da-ingazeira",
+    "nome": "Rádio Pajeú e Museu do Rádio",
+    "categoria": "Patrimônio Histórico",
+    "categoria_en": "Historical Heritage",
+    "endereco": "Afogados da Ingazeira - PE",
+    "latitude": -7.751,
+    "longitude": -37.639,
+    "status_coordenadas": "aproximada",
+    "descricao": "A Rádio Pajeú foi fundada em 4 de outubro de 1959 pela Diocese de Afogados da Ingazeira, por iniciativa do bispo Dom José Mota e Albuquerque. Foi a primeira emissora do interior de Pernambuco. O prédio onde ela nasceu hoje abriga o Museu do Rádio.",
+    "descricao_en": "Rádio Pajeú was founded on 4 October 1959 by the Diocese of Afogados da Ingazeira, at the initiative of Bishop Dom José Mota e Albuquerque. It was the first radio station in the interior of Pernambuco. The building where it began now houses the Radio Museum.",
+    "status_en": "revisado-2026",
+    "curiosidades": [
+      {
+        "texto": "Quando a rádio foi criada a região ainda não tinha energia elétrica e ela funcionava com motores a óleo. O programa 'Encontro com a Poesia', no ar há mais de 30 anos, divulga os poetas e cantadores do Pajeú.",
+        "texto_en": "When the station was founded the region still had no electricity, so it ran on oil-powered engines. Its program 'Encontro com a Poesia', on the air for more than 30 years, showcases Pajeú poets and cantadores (improvising singers)."
+      }
+    ],
+    "imagens": [
+      {
+        "arquivo": "radio-pajeu-museu-do-radio.jpg",
+        "fonte": "",
+        "direitos": "verificar",
+        "legenda": ""
+      }
+    ],
+    "origem": "revisão 2026",
+    "url_legado": null,
+    "fontes": [
+      "https://www.diariodepernambuco.com.br/noticia/viver/2019/10/radio-pajeu-a-voz-do-sertao-ha-60-anos.html",
+      "https://www.portalintercom.org.br/anais/nacional2018/resumos/R13-1186-1.pdf"
+    ],
+    "pendencias": [
+      "Coordenada aproximada: marcar o local exato no mapa."
+    ]
+  },
+  {
+    "slug": "nascente-do-rio-pajeu",
+    "cidade": "brejinho",
+    "nome": "Nascente do Rio Pajeú",
+    "categoria": "Natureza",
+    "categoria_en": "Nature",
+    "endereco": "Serra da Balança, zona rural de Brejinho - PE",
+    "latitude": -7.303157,
+    "longitude": -37.336198,
+    "status_coordenadas": "conferida",
+    "descricao": "Local onde nasce o Rio Pajeú, o mais importante do sertão pernambucano, na Serra da Balança. Oferece paisagens naturais e a oportunidade de conhecer a origem do rio que dá nome à microrregião.",
+    "descricao_en": "The source of the Pajeú River, the most important river of the Pernambuco sertão, lies in the Serra da Balança. The site offers natural landscapes and the chance to see where the river that gives the region its name begins.",
+    "status_en": "revisado-2026",
+    "curiosidades": [
+      {
+        "texto": "O Rio Pajeú percorre cerca de 353 km até desaguar no Rio São Francisco.",
+        "texto_en": "The Pajeú River runs about 353 km before flowing into the São Francisco River."
+      }
+    ],
+    "imagens": [
+      {
+        "arquivo": "nascente-do-rio-pajeu.jpg",
+        "fonte": "",
+        "direitos": "verificar",
+        "legenda": ""
+      }
+    ],
+    "origem": "pesquisa 2026",
+    "url_legado": null,
+    "pendencias": [
+      "A pesquisa escreveu \"Serra do Balanço\" e a v1.0 \"Serra da Balança\": padronizado como Serra da Balança — confirmar.",
+      "Confirmar a extensão do rio (353 km).",
+      "Localização: Centro de Brejinho — a nascente fica na Serra da Balança, na divisa com a PB; marcar no mapa.",
+      "Coordenada conferida pelos alunos no Google Maps (27/10/2026).",
+      "Conferir de novo: a coordenada dos alunos fica a 7,7 km da anterior."
+    ]
+  },
+  {
+    "slug": "igreja-matriz-brejinho",
+    "cidade": "brejinho",
+    "nome": "Igreja Matriz de São Sebastião",
+    "categoria": "Patrimônio Religioso",
+    "categoria_en": "Religious Heritage",
+    "endereco": "Centro, Brejinho - PE",
+    "latitude": -7.3498,
+    "longitude": -37.2842,
+    "status_coordenadas": "conferida",
+    "descricao": "Principal templo religioso da cidade, com arquitetura tradicional e importância para a comunidade local.",
+    "descricao_en": "The town's main church, with traditional architecture and great importance to the local community.",
+    "status_en": "revisado-2026",
+    "curiosidades": [],
+    "imagens": [
+      {
+        "arquivo": "igreja-matriz-brejinho.jpg",
+        "fonte": "",
+        "direitos": "verificar",
+        "legenda": ""
+      }
+    ],
+    "origem": "pesquisa 2026",
+    "url_legado": null,
+    "pendencias": []
+  },
+  {
+    "slug": "igreja-nossa-senhora-da-conceicao-calumbi",
+    "cidade": "calumbi",
+    "nome": "Igreja Matriz de Nossa Senhora da Conceição",
+    "categoria": "Patrimônio Religioso",
+    "categoria_en": "Religious Heritage",
+    "endereco": "Centro, Calumbi - PE",
+    "latitude": -7.9402,
+    "longitude": -38.1509,
+    "status_coordenadas": "conferida",
+    "descricao": "Edificação religiosa central da cidade, construída pela família Barbosa, fundadora de Calumbi. Representa a fé e a história local.",
+    "descricao_en": "The town's central church, built by the Barbosa family, who founded Calumbi. It represents local faith and history.",
+    "status_en": "revisado-2026",
+    "curiosidades": [
+      {
+        "texto": "Os festejos da padroeira acontecem desde 1877.",
+        "texto_en": "The festivities for the patron saint have been held since 1877."
+      }
+    ],
+    "imagens": [
+      {
+        "arquivo": "igreja-nossa-senhora-da-conceicao-calumbi.jpg",
+        "fonte": "",
+        "direitos": "verificar",
+        "legenda": ""
+      }
+    ],
+    "origem": "pesquisa 2026",
+    "url_legado": null,
+    "pendencias": []
+  },
+  {
+    "slug": "patio-de-eventos-milton-pierre",
+    "cidade": "carnaiba",
+    "nome": "Pátio de Eventos Milton Pierre",
+    "categoria": "Lazer",
+    "categoria_en": "Leisure",
+    "endereco": "Carnaíba - PE",
+    "latitude": -7.803901,
+    "longitude": -37.79418,
+    "status_coordenadas": "conferida",
+    "descricao": "Local onde acontecem os principais eventos e festas da cidade, como shows e celebrações culturais.",
+    "descricao_en": "The venue for the town's main events and festivals, such as concerts and cultural celebrations.",
+    "status_en": "revisado-2026",
+    "curiosidades": [],
+    "imagens": [
+      {
+        "arquivo": "patio-de-eventos-milton-pierre.jpg",
+        "fonte": "",
+        "direitos": "verificar",
+        "legenda": ""
+      }
+    ],
+    "origem": "pesquisa 2026",
+    "url_legado": null,
+    "pendencias": [
+      "A foto tem marca d'água do Blog do Aryel Aquino — pedir autorização ou trocar.",
+      "Coordenada conferida pelos alunos no Google Maps (27/10/2026)."
+    ]
+  },
+  {
+    "slug": "igreja-matriz-nossa-senhora-da-conceicao-flores",
+    "cidade": "flores",
+    "nome": "Igreja Matriz de Nossa Senhora da Conceição",
+    "categoria": "Patrimônio Religioso",
+    "categoria_en": "Religious Heritage",
+    "endereco": "Centro, Flores - PE",
+    "latitude": -7.8682,
+    "longitude": -37.9743,
+    "status_coordenadas": "conferida",
+    "descricao": "Imponente igreja no centro de Flores, com valor histórico e arquitetônico. É uma construção do século XVIII e marco da fundação da cidade.",
+    "descricao_en": "An imposing church in the center of Flores, with historical and architectural value. It was built in the 18th century and marks the founding of the town.",
+    "status_en": "revisado-2026",
+    "curiosidades": [
+      {
+        "texto": "A história da cidade envolve a lenda de duas meninas indígenas adoradas como divindades.",
+        "texto_en": "The town's history includes the legend of two Indigenous girls who were worshipped as goddesses."
+      }
+    ],
+    "imagens": [
+      {
+        "arquivo": "igreja-matriz-flores.jpg",
+        "fonte": "TripAdvisor",
+        "direitos": "verificar",
+        "legenda": ""
+      }
+    ],
+    "origem": "pesquisa 2026",
+    "url_legado": null,
+    "pendencias": [
+      "Confirmar a data (século XVIII) e a lenda antes de publicar.",
+      "Imagem do TripAdvisor: trocar por foto livre ou própria."
+    ]
+  },
+  {
+    "slug": "casario-colonial-flores",
+    "cidade": "flores",
+    "nome": "Casario Colonial do Centro Histórico",
+    "categoria": "Patrimônio Histórico",
+    "categoria_en": "Historical Heritage",
+    "endereco": "Centro, Flores - PE",
+    "latitude": -7.869,
+    "longitude": -37.975,
+    "status_coordenadas": "aproximada",
+    "descricao": "Conjunto de construções antigas que preservam a arquitetura colonial da cidade, ideal para um passeio cultural.",
+    "descricao_en": "A group of old buildings that preserve the town's colonial architecture, ideal for a cultural walking tour.",
+    "status_en": "revisado-2026",
+    "curiosidades": [],
+    "imagens": [
+      {
+        "arquivo": "casario-colonial-flores.jpg",
+        "fonte": "",
+        "direitos": "verificar",
+        "legenda": ""
+      }
+    ],
+    "origem": "pesquisa 2026",
+    "url_legado": null,
+    "pendencias": []
+  },
+  {
+    "slug": "igreja-matriz-sao-sebastiao-iguaracy",
+    "cidade": "iguaracy",
+    "nome": "Igreja Matriz de São Sebastião",
+    "categoria": "Patrimônio Religioso",
+    "categoria_en": "Religious Heritage",
+    "endereco": "Centro, Iguaracy - PE",
+    "latitude": -7.8352,
+    "longitude": -37.5149,
+    "status_coordenadas": "conferida",
+    "descricao": "Principal igreja da cidade, ponto de referência e palco da principal festa religiosa, em janeiro.",
+    "descricao_en": "The town's main church, a local landmark and the setting for its main religious festival, held in January.",
+    "status_en": "revisado-2026",
+    "curiosidades": [],
+    "imagens": [
+      {
+        "arquivo": "igreja-matriz-sao-sebastiao-iguaracy.jpg",
+        "fonte": "",
+        "direitos": "verificar",
+        "legenda": ""
+      }
+    ],
+    "origem": "pesquisa 2026",
+    "url_legado": null,
+    "pendencias": []
+  },
+  {
+    "slug": "distrito-de-jabitaca",
+    "cidade": "iguaracy",
+    "nome": "Distrito de Jabitacá",
+    "categoria": "Cultura",
+    "categoria_en": "Culture",
+    "endereco": "Jabitacá, Iguaracy - PE",
+    "latitude": -7.91,
+    "longitude": -37.45,
+    "status_coordenadas": "aproximada",
+    "descricao": "Distrito conhecido por suas manifestações culturais e tradições, que oferece uma imersão na vida do Sertão do Pajeú.",
+    "descricao_en": "A district known for its cultural events and traditions, offering visitors a glimpse of everyday life in the Sertão do Pajeú.",
+    "status_en": "revisado-2026",
+    "curiosidades": [],
+    "imagens": [
+      {
+        "arquivo": "distrito-de-jabitaca.jpg",
+        "fonte": "",
+        "direitos": "verificar",
+        "legenda": ""
+      }
+    ],
+    "origem": "pesquisa 2026",
+    "url_legado": null,
+    "pendencias": [
+      "Descrição genérica: dizer quais manifestações culturais existem lá.",
+      "Localização: Coordenada atual sem fonte — marcar a vila de Jabitacá no mapa."
+    ]
+  },
+  {
+    "slug": "igreja-matriz-sao-jose-ingazeira",
+    "cidade": "ingazeira",
+    "nome": "Igreja Matriz de São José",
+    "categoria": "Patrimônio Religioso",
+    "categoria_en": "Religious Heritage",
+    "endereco": "Centro, Ingazeira - PE",
+    "latitude": -7.6759,
+    "longitude": -37.4596,
+    "status_coordenadas": "conferida",
+    "descricao": "Igreja histórica que marca a fundação da cidade no século XIX, com importância religiosa e cultural.",
+    "descricao_en": "A historic church that marks the founding of the town in the 19th century, with religious and cultural importance.",
+    "status_en": "revisado-2026",
+    "curiosidades": [],
+    "imagens": [
+      {
+        "arquivo": "igreja-matriz-sao-jose-ingazeira.jpg",
+        "fonte": "",
+        "direitos": "verificar",
+        "legenda": ""
+      }
+    ],
+    "origem": "pesquisa 2026",
+    "url_legado": null,
+    "pendencias": []
+  },
+  {
+    "slug": "igreja-matriz-sao-pedro-itapetim",
+    "cidade": "itapetim",
+    "nome": "Igreja Matriz de São Pedro",
+    "categoria": "Patrimônio Religioso",
+    "categoria_en": "Religious Heritage",
+    "endereco": "Centro, Itapetim - PE",
+    "latitude": -7.3792,
+    "longitude": -37.1892,
+    "status_coordenadas": "conferida",
+    "descricao": "Uma das igrejas mais altas da região, construída em 1914.",
+    "descricao_en": "One of the tallest churches in the region, built in 1914.",
+    "status_en": "revisado-2026",
+    "curiosidades": [
+      {
+        "texto": "Na década de 1940, a cidade teve uma mina de ouro, a Piedade do Ouro.",
+        "texto_en": "In the 1940s, the town had a gold mine called Piedade do Ouro."
+      }
+    ],
+    "imagens": [
+      {
+        "arquivo": "igreja-matriz-sao-pedro-itapetim.jpg",
+        "fonte": "",
+        "direitos": "verificar",
+        "legenda": ""
+      }
+    ],
+    "origem": "pesquisa 2026",
+    "url_legado": null,
+    "pendencias": []
+  },
+  {
+    "slug": "igreja-matriz-quixaba",
+    "cidade": "quixaba",
+    "nome": "Igreja Matriz de São Sebastião",
+    "categoria": "Patrimônio Religioso",
+    "categoria_en": "Religious Heritage",
+    "endereco": "Centro, Quixaba - PE",
+    "latitude": -7.7191,
+    "longitude": -37.8459,
+    "status_coordenadas": "conferida",
+    "descricao": "Principal igreja da cidade, com importância religiosa e arquitetônica.",
+    "descricao_en": "The town's main church, with religious and architectural importance.",
+    "status_en": "revisado-2026",
+    "curiosidades": [],
+    "imagens": [
+      {
+        "arquivo": "igreja-matriz-quixaba.jpg",
+        "fonte": "",
+        "direitos": "verificar",
+        "legenda": ""
+      }
+    ],
+    "origem": "pesquisa 2026",
+    "url_legado": null,
+    "pendencias": []
+  },
+  {
+    "slug": "engenhos-de-rapadura",
+    "cidade": "santa-cruz-da-baixa-verde",
+    "nome": "Engenhos de Rapadura",
+    "categoria": "Cultura",
+    "categoria_en": "Culture",
+    "endereco": "Zona rural, Santa Cruz da Baixa Verde - PE",
+    "latitude": -7.821,
+    "longitude": -38.153,
+    "status_coordenadas": "aproximada",
+    "descricao": "Engenhos tradicionais em que o visitante acompanha a produção artesanal de rapadura e prova os produtos locais.",
+    "descricao_en": "Traditional mills where visitors can watch rapadura (blocks of unrefined cane sugar) being made by hand and taste local products.",
+    "status_en": "revisado-2026",
+    "curiosidades": [],
+    "imagens": [
+      {
+        "arquivo": "engenhos-de-rapadura.jpg",
+        "fonte": "",
+        "direitos": "verificar",
+        "legenda": ""
+      }
+    ],
+    "origem": "pesquisa 2026",
+    "url_legado": null,
+    "pendencias": [
+      "Indicar um engenho específico que receba visitantes."
+    ]
+  },
+  {
+    "slug": "cachoeira-do-pinga",
+    "cidade": "triunfo",
+    "nome": "Cachoeira do Pinga",
+    "categoria": "Natureza",
+    "categoria_en": "Nature",
+    "endereco": "Sítio Brejinho, a cerca de 4,5 km do centro, Triunfo - PE",
+    "latitude": -7.8686,
+    "longitude": -38.121,
+    "status_coordenadas": "conferida",
+    "descricao": "Cachoeira no Sítio Brejinho, a cerca de 4,5 km do centro de Triunfo, cercada pela mata da serra. É procurada para banho e contato com a natureza, principalmente no período de chuvas.",
+    "descricao_en": "A waterfall at Sítio Brejinho, about 4.5 km from downtown Triunfo, surrounded by the mountain forest. It is popular for swimming and enjoying nature, especially in the rainy season.",
+    "status_en": "revisado-2026",
+    "curiosidades": [],
+    "imagens": [
+      {
+        "arquivo": "cachoeira-do-pinga.jpg",
+        "fonte": "",
+        "direitos": "verificar",
+        "legenda": ""
+      },
+      {
+        "arquivo": "cachoeira-da-pinga.jpg",
+        "fonte": "",
+        "direitos": "verificar",
+        "legenda": ""
+      }
+    ],
+    "origem": "pesquisa 2026",
+    "url_legado": null,
+    "pendencias": [
+      "CORRIGIDO: a pesquisa dizia \"Cachoeira da Pinga\" em Santa Cruz da Baixa Verde; o nome é Cachoeira do Pinga e fica em Triunfo (prefeitura de Triunfo)."
+    ]
+  },
+  {
+    "slug": "igreja-matriz-santa-teresinha",
+    "cidade": "santa-terezinha",
+    "nome": "Igreja Matriz de Santa Terezinha",
+    "categoria": "Patrimônio Religioso",
+    "categoria_en": "Religious Heritage",
+    "endereco": "Centro, Santa Terezinha - PE",
+    "latitude": -7.3769,
+    "longitude": -37.4813,
+    "status_coordenadas": "conferida",
+    "descricao": "Templo dedicado à padroeira que dá nome à cidade.",
+    "descricao_en": "A church dedicated to the patron saint after whom the town is named.",
+    "status_en": "revisado-2026",
+    "curiosidades": [],
+    "imagens": [
+      {
+        "arquivo": "igreja-matriz-santa-teresinha.jpg",
+        "fonte": "",
+        "direitos": "verificar",
+        "legenda": ""
+      }
+    ],
+    "origem": "pesquisa 2026",
+    "url_legado": null,
+    "pendencias": [
+      "Descrição curta — completar com história da igreja."
+    ]
+  },
+  {
+    "slug": "beco-de-laura",
+    "cidade": "sao-jose-do-egito",
+    "nome": "Beco de Laura",
+    "categoria": "Cultura",
+    "categoria_en": "Culture",
+    "endereco": "Centro, São José do Egito - PE",
+    "latitude": -7.479616,
+    "longitude": -37.274848,
+    "status_coordenadas": "conferida",
+    "descricao": "Local histórico onde se reuniam grandes poetas populares, marco da cultura do repente e da poesia nordestina.",
+    "descricao_en": "A historic alley where great popular poets used to gather, a landmark of repente (improvised sung verse) and Northeastern Brazilian poetry.",
+    "status_en": "revisado-2026",
+    "curiosidades": [],
+    "imagens": [
+      {
+        "arquivo": "beco-de-laura.jpg",
+        "fonte": "",
+        "direitos": "verificar",
+        "legenda": ""
+      }
+    ],
+    "origem": "pesquisa 2026",
+    "url_legado": null,
+    "pendencias": [
+      "Nome confirmado pela prefeitura de São José do Egito (Beco de Laura). \"Festa de Louro\" é outra coisa: o aniversário do poeta Lourival Batista.",
+      "Coordenada conferida pelos alunos no Google Maps (27/10/2026)."
+    ]
+  },
+  {
+    "slug": "igreja-matriz-sao-jose-do-egito",
+    "cidade": "sao-jose-do-egito",
+    "nome": "Igreja Matriz de São José",
+    "categoria": "Patrimônio Religioso",
+    "categoria_en": "Religious Heritage",
+    "endereco": "Centro, São José do Egito - PE",
+    "latitude": -7.4799,
+    "longitude": -37.2743,
+    "status_coordenadas": "conferida",
+    "descricao": "Templo histórico, marco da fundação da cidade no século XIX.",
+    "descricao_en": "A historic church that marks the founding of the town in the 19th century.",
+    "status_en": "revisado-2026",
+    "curiosidades": [
+      {
+        "texto": "A fundação do município envolveu disputas entre fazendeiros, que chegaram a destruir capelas rivais.",
+        "texto_en": "The founding of the town involved disputes between landowners, who even destroyed rival chapels."
+      }
+    ],
+    "imagens": [
+      {
+        "arquivo": "igreja-matriz-sao-jose-do-egito.jpg",
+        "fonte": "",
+        "direitos": "verificar",
+        "legenda": ""
+      }
+    ],
+    "origem": "pesquisa 2026",
+    "url_legado": null,
+    "pendencias": []
+  },
+  {
+    "slug": "mercado-publico-sao-jose-do-egito",
+    "cidade": "sao-jose-do-egito",
+    "nome": "Mercado Público Monsenhor Rabelo",
+    "categoria": "Cultura",
+    "categoria_en": "Culture",
+    "endereco": "Centro, São José do Egito - PE",
+    "latitude": -7.472,
+    "longitude": -37.276,
+    "status_coordenadas": "aproximada",
+    "descricao": "Centro de comércio e cultura local, com produtos regionais, artesanato e o movimento do dia a dia da cidade.",
+    "descricao_en": "A center of local commerce and culture, with regional products, handicrafts and the bustle of everyday town life.",
+    "status_en": "revisado-2026",
+    "curiosidades": [],
+    "imagens": [
+      {
+        "arquivo": "mercado-publico-sao-jose-do-egito.jpg",
+        "fonte": "",
+        "direitos": "verificar",
+        "legenda": ""
+      }
+    ],
+    "origem": "pesquisa 2026",
+    "url_legado": null,
+    "pendencias": [
+      "Nome \"Monsenhor Rabelo\" achado só em guia comercial (Buser): confirmar com a prefeitura."
+    ]
+  },
+  {
+    "slug": "serra-talhada",
+    "cidade": "serra-talhada",
+    "nome": "A Serra Talhada",
+    "categoria": "Natureza",
+    "categoria_en": "Nature",
+    "endereco": "",
+    "latitude": -7.975,
+    "longitude": -38.305,
+    "status_coordenadas": "aproximada",
+    "descricao": "A serra que deu nome a Serra Talhada é o marco histórico e simbólico da cidade. Foi ao seu redor que surgiram as primeiras fazendas de criação que deram origem ao povoado, e sua aparência de paredão abrupto e “talhado” inspirou o nome do município.\n\nAo longo do tempo, serviu como referência para viajantes e cenário de importantes capítulos da cultura do sertão, incluindo o cangaço, já que a cidade é terra natal de Lampião.\n\nAlém de sua relevância histórica, a serra é um dos principais cartões-postais locais: imponente, com rochas expostas e rodeada pela vegetação da caatinga.\n\nEla representa a identidade, a memória e o orgulho do povo serra-talhadense.",
+    "descricao_en": "The mountain that gave Serra Talhada its name is the city's main historical and symbolic landmark. It was around this formation that the first cattle farms appeared, giving rise to the early settlement.\n\nIts abrupt, carved-like rocky walls inspired the name of the municipality. Over time, the mountain served as a reference point for travelers and as the backdrop for important cultural chapters of the sertão.\n\nThis includes the cangaço movement, since the city is the birthplace of Lampião.\n\nBeyond its historical relevance, the mountain is one of the region’s most iconic landscapes, surrounded by caatinga vegetation and representing identity, memory and pride for the people of Serra Talhada.",
+    "status_en": "revisado-2025",
+    "curiosidades": [],
+    "imagens": [
+      {
+        "arquivo": "serra-talhada.jpg",
+        "fonte": "",
+        "direitos": "verificar",
+        "legenda": ""
+      }
+    ],
+    "origem": "v1.0 (2025)",
+    "url_legado": "/pontos/serra-talhada.html",
+    "pendencias": [
+      "Coordenada aproximada — marcar a serra no mapa."
+    ]
+  },
+  {
+    "slug": "museu-do-cangaco",
+    "cidade": "serra-talhada",
+    "nome": "Museu do Cangaço",
+    "categoria": "Museu",
+    "categoria_en": "Museum",
+    "endereco": "Antiga estação ferroviária (Estação do Forró), Centro, Serra Talhada - PE",
+    "latitude": -7.984045,
+    "longitude": -38.297836,
+    "status_coordenadas": "conferida",
+    "descricao": "O Museu do Cangaço de Serra Talhada abriga o maior acervo do gênero no Brasil. Localizado na antiga estação ferroviária, o museu preserva objetos, fotos e documentos que contam a saga de Virgulino Ferreira da Silva, o Lampião.\n\nA visita oferece uma perspectiva rica sobre o fenômeno social e cultural do cangaço, fundamental para entender a história do sertão nordestino.",
+    "descricao_en": "The Cangaço Museum in Serra Talhada houses the largest collection of its kind in Brazil. Located in the old railway station, the museum preserves objects, photos, and documents that tell the saga of Virgulino Ferreira da Silva, known as Lampião.\n\nThe visit offers a rich perspective on the social and cultural phenomenon of cangaço, essential for understanding the history of the Brazilian backlands.",
+    "status_en": "revisado-2025",
+    "curiosidades": [
+      {
+        "texto": "O acervo tem mais de 2.300 peças, incluindo bilhetes escritos por Lampião.",
+        "texto_en": "The collection has more than 2,300 items, including notes handwritten by Lampião."
+      }
+    ],
+    "imagens": [
+      {
+        "arquivo": "museu-do-cangaco.jpg",
+        "fonte": "Wikimedia Commons",
+        "direitos": "livre - conferir",
+        "legenda": ""
+      },
+      {
+        "arquivo": "museu-do-cangaco-2.jpg",
+        "fonte": "",
+        "direitos": "verificar",
+        "legenda": ""
+      }
+    ],
+    "origem": "v1.0 (2025) + pesquisa 2026",
+    "url_legado": "/pontos/museu-do-cangaco.html",
+    "pendencias": [
+      "REMOVIDO da curiosidade: \"laudos médicos das cabeças dos cangaceiros\" — tema sensível para o público escolar; decidir com o professor.",
+      "Localização: Fica na Vila Ferroviária (bairro São Cristóvão), a ~0,9 km da Matriz da Penha; a coordenada atual (ao lado da Matriz) está errada — marcar no mapa.",
+      "Coordenada conferida pelos alunos no Google Maps (27/10/2026)."
+    ]
+  },
+  {
+    "slug": "igreja-matriz-penha",
+    "cidade": "serra-talhada",
+    "nome": "Igreja Matriz de Nossa Senhora da Penha",
+    "categoria": "Patrimônio Religioso",
+    "categoria_en": "Religious Heritage",
+    "endereco": "Praça Padre Jesus, Centro, Serra Talhada - PE",
+    "latitude": -7.9918,
+    "longitude": -38.2986,
+    "status_coordenadas": "conferida",
+    "descricao": "A Igreja Matriz de Nossa Senhora da Penha é o coração religioso de Serra Talhada. Com sua arquitetura imponente, domina a praça central da cidade e serve como ponto de encontro para a comunidade.\n\nDedicada à padroeira da cidade, a igreja é palco das maiores celebrações religiosas da região, mantendo viva a tradição e a devoção do povo sertanejo.",
+    "descricao_en": "The Mother Church of Our Lady of Penha is the religious heart of Serra Talhada. With its imposing architecture, it dominates the city's central square and serves as a meeting point for the community.\n\nDedicated to the city's patron saint, the church hosts the region's largest religious celebrations, keeping alive the tradition and devotion of the backlands people.",
+    "status_en": "revisado-2025",
+    "curiosidades": [
+      {
+        "texto": "A praça em frente homenageia o Padre Jesus, espanhol que conduziu a paróquia por 54 anos.",
+        "texto_en": "The square in front of the church honors Father Jesus, a Spanish priest who led the parish for 54 years."
+      }
+    ],
+    "imagens": [
+      {
+        "arquivo": "igreja-matriz-penha.jpg",
+        "fonte": "Wikimedia Commons",
+        "direitos": "livre - conferir",
+        "legenda": ""
+      },
+      {
+        "arquivo": "igreja-matriz-penha-2.jpg",
+        "fonte": "",
+        "direitos": "verificar",
+        "legenda": ""
+      }
+    ],
+    "origem": "v1.0 (2025) + pesquisa 2026",
+    "url_legado": "/pontos/igreja-matriz-penha.html",
+    "pendencias": [
+      "Confirmar o nome da praça e a informação sobre o Padre Jesus."
+    ]
+  },
+  {
+    "slug": "igreja-do-rosario",
+    "cidade": "serra-talhada",
+    "nome": "Igreja de Nossa Senhora do Rosário",
+    "categoria": "Patrimônio Religioso",
+    "categoria_en": "Religious Heritage",
+    "endereco": "Bairro do Rosário, Serra Talhada - PE",
+    "latitude": -7.9918,
+    "longitude": -38.3021,
+    "status_coordenadas": "conferida",
+    "descricao": "A Igreja do Rosário, em Serra Talhada (PE), é um dos templos religiosos mais tradicionais da cidade. Localizada no bairro do Rosário, ela se destaca pela arquitetura simples e histórica, típica das igrejas interioranas de Pernambuco.\n\nO local é importante para a comunidade, especialmente por suas festividades religiosas, como a celebração em honra a Nossa Senhora do Rosário, que reúne fiéis e moradores.\n\nSegundo a pesquisa, foi construída por pessoas escravizadas por volta de 1789–1790, o que explica o nome popular \"Igreja do Rosário dos Pretos\".",
+    "descricao_en": "The Igreja do Rosário in Serra Talhada, Pernambuco, is one of the city’s traditional religious landmarks. Located in the Rosário neighborhood, it features a simple, historic architectural style typical of small churches in the region.\n\nIt plays an important role in the local community, especially during religious festivities dedicated to Our Lady of the Rosary, which attract residents and visitors.\n\nAccording to the research, it was built by enslaved people around 1789–1790, which explains its popular name, \"Igreja do Rosário dos Pretos\" (Church of the Rosary of the Black People).",
+    "status_en": "revisado-2026",
+    "curiosidades": [
+      {
+        "texto": "Conta a lenda que os construtores abriram um túnel do altar até a \"Caverna do Morcego\".",
+        "texto_en": "Legend has it that the builders dug a tunnel from the altar to the \"Caverna do Morcego\" (Bat Cave)."
+      }
+    ],
+    "imagens": [
+      {
+        "arquivo": "igreja-do-rosario.jpg",
+        "fonte": "Wikimedia Commons",
+        "direitos": "livre - conferir",
+        "legenda": ""
+      },
+      {
+        "arquivo": "igreja-do-rosario-2.jpg",
+        "fonte": "",
+        "direitos": "verificar",
+        "legenda": ""
+      }
+    ],
+    "origem": "v1.0 (2025) + pesquisa 2026",
+    "url_legado": "/pontos/igreja-do-rosario.html",
+    "pendencias": [
+      "Confirmar a data de construção."
+    ]
+  },
+  {
+    "slug": "casa-da-cultura",
+    "cidade": "serra-talhada",
+    "nome": "Fundação Casa da Cultura",
+    "categoria": "Museu",
+    "categoria_en": "Museum",
+    "endereco": "Centro, Serra Talhada - PE",
+    "latitude": -7.993,
+    "longitude": -38.299,
+    "status_coordenadas": "aproximada",
+    "descricao": "A Fundação Casa da Cultura de Serra Talhada é um espaço cultural localizado no centro de Serra Talhada, que resgata e preserva a memória e a história do sertão do Pajeú, com destaque para personagens e fatos marcantes da região, especialmente ligados ao cangaço.\n\nO local funciona em um prédio histórico bem cuidado, com um acervo de fotografias, esculturas e objetos (incluindo itens atribuídos a Lampião) que oferecem ao visitante uma imersão na identidade cultural e no passado da cidade.\n\nApesar de não ser um espaço muito grande, a Casa da Cultura é agradável e gratuita, tornando-se um ponto indicado tanto para quem busca conhecimento sobre a cultura nordestina quanto para curiosos sobre a vida e as tradições do sertão pernambucano.",
+    "descricao_en": "The Fundação Casa da Cultura de Serra Talhada is a cultural space located in the center of Serra Talhada that preserves and highlights the memory and history of the Pajeú backlands, with special emphasis on notable figures and events of the region, particularly those related to the cangaço.\n\nThe site operates in a well-maintained historic building and features a collection of photographs, sculptures, and objects (including items attributed to Lampião) that offer visitors an immersive experience into the city’s cultural identity and past.\n\nAlthough not a very large space, the Casa da Cultura is pleasant and free to visit, making it a recommended stop for those seeking knowledge about northeastern Brazilian culture as well as for anyone curious about the life and traditions of the Pernambuco hinterland.",
+    "status_en": "revisado-2025",
+    "curiosidades": [],
+    "imagens": [
+      {
+        "arquivo": "casa-da-cultura.jpg",
+        "fonte": "",
+        "direitos": "verificar",
+        "legenda": ""
+      }
+    ],
+    "origem": "v1.0 (2025)",
+    "url_legado": "/pontos/casa-da-cultura.html",
+    "pendencias": []
+  },
+  {
+    "slug": "mirante-serra-talhada",
+    "cidade": "serra-talhada",
+    "nome": "Cruzeiro da Serra Talhada",
+    "categoria": "Trilha e mirante",
+    "categoria_en": "Trail and viewpoint",
+    "endereco": "Zona rural, Serra Talhada - PE",
+    "latitude": -7.964245,
+    "longitude": -38.318224,
+    "status_coordenadas": "conferida",
+    "descricao": "Trilhas sobem a serra que dá nome à cidade até o cruzeiro no alto. Lá de cima se vê a cidade e o Vale do Pajeú, e o lugar é muito procurado para fotos e para ver o pôr do sol.\n\nNão há estrutura turística oficial: vá com calçado adequado, água e, se possível, com alguém que conheça a trilha.",
+    "descricao_en": "Trails climb the mountain that gives the city its name up to the cross at the top. From there you can see the city and the Pajeú Valley, and it is a popular spot for photos and sunset watching.\n\nThere is no official tourist infrastructure: wear proper shoes, bring water and, if possible, go with someone who knows the trail.",
+    "status_en": "revisado-2025",
+    "curiosidades": [],
+    "imagens": [
+      {
+        "arquivo": "mirante-serra-talhada.jpg",
+        "fonte": "",
+        "direitos": "verificar",
+        "legenda": ""
+      },
+      {
+        "arquivo": "mirante-serra-talhada-2.jpg",
+        "fonte": "",
+        "direitos": "verificar",
+        "legenda": ""
+      }
+    ],
+    "origem": "v1.0 (2025)",
+    "url_legado": "/pontos/mirante-serra-talhada.html",
+    "pendencias": [
+      "CORRIGIDO: nenhuma fonte usa o nome oficial \"Mirante Serra Talhada\"; usado \"Cruzeiro da Serra Talhada\" (Gazeta SP).",
+      "Coordenada conferida pelos alunos no Google Maps (27/10/2026)."
+    ]
+  },
+  {
+    "slug": "rio-pajeu",
+    "cidade": "serra-talhada",
+    "nome": "Rio Pajeú",
+    "categoria": "Natureza",
+    "categoria_en": "Nature",
+    "endereco": "Atravessa várias cidades; trecho urbano de Serra Talhada - PE",
+    "latitude": -7.995,
+    "longitude": -38.3,
+    "status_coordenadas": "aproximada",
+    "descricao": "O Rio Pajeú nasce na Serra da Balança, em Brejinho, e é um dos principais afluentes do rio São Francisco. É um rio sazonal que abastece 28 municípios do sertão pernambucano.\n\nFamoso por inspirar canções como as de Luiz Gonzaga e obras literárias, o Pajeú é fundamental para a identidade cultural e econômica das cidades que banha, como Serra Talhada e Flores.",
+    "descricao_en": "The Pajeú River rises in the Serra da Balança, in Brejinho, and is one of the main tributaries of the São Francisco River. It is a seasonal river that supplies 28 municipalities in the Pernambuco backlands.\n\nFamous for inspiring songs, such as those by Luiz Gonzaga, and literary works, the Pajeú is essential to the cultural and economic identity of the towns along its banks, such as Serra Talhada and Flores.",
+    "status_en": "revisado-2026",
+    "curiosidades": [],
+    "imagens": [
+      {
+        "arquivo": "rio-pajeu-2.jpg",
+        "fonte": "",
+        "direitos": "verificar",
+        "legenda": ""
+      },
+      {
+        "arquivo": "rio-pajeu-afogados.jpg",
+        "fonte": "blog nilljunior.com.br",
+        "direitos": "verificar",
+        "legenda": "Foto histórica do rio em Afogados da Ingazeira"
+      }
+    ],
+    "origem": "v1.0 (2025)",
+    "url_legado": "/pontos/rio-pajeu.html",
+    "pendencias": [
+      "Confirmar \"abastece 28 municípios\"."
+    ]
+  },
+  {
+    "slug": "sitio-passagem-das-pedras",
+    "cidade": "serra-talhada",
+    "nome": "Sítio Passagem das Pedras",
+    "categoria": "Patrimônio Histórico",
+    "categoria_en": "Historical Heritage",
+    "endereco": "Zona rural (cerca de 35 km do centro), Serra Talhada - PE",
+    "latitude": -8.02,
+    "longitude": -38.35,
+    "status_coordenadas": "aproximada",
+    "descricao": "Local onde nasceu Virgulino Ferreira da Silva, o Lampião, na zona rural de Serra Talhada.",
+    "descricao_en": "The birthplace of Virgulino Ferreira da Silva, known as Lampião, in the countryside of Serra Talhada.",
+    "status_en": "revisado-2026",
+    "curiosidades": [
+      {
+        "texto": "Ainda existem ruínas da casa original da família de Lampião no local.",
+        "texto_en": "The ruins of the original Lampião family house can still be seen at the site."
+      }
+    ],
+    "imagens": [
+      {
+        "arquivo": "sitio-passagem-das-pedras.jpg",
+        "fonte": "",
+        "direitos": "verificar",
+        "legenda": ""
+      }
+    ],
+    "origem": "pesquisa 2026",
+    "url_legado": null,
+    "pendencias": [
+      "Localização: Fica a ~35-45 km da sede; a coordenada atual (~6 km) está errada — marcar no mapa."
+    ]
+  },
+  {
+    "slug": "estacao-do-forro",
+    "cidade": "serra-talhada",
+    "nome": "Estação do Forró e Parque de Esculturas",
+    "categoria": "Cultura",
+    "categoria_en": "Culture",
+    "endereco": "Centro, Serra Talhada - PE",
+    "latitude": -7.983255,
+    "longitude": -38.297074,
+    "status_coordenadas": "conferida",
+    "descricao": "Espaço das festas juninas, com cidade cenográfica e parque de esculturas.",
+    "descricao_en": "The venue for the June festivals (São João), with a replica old-town set and a sculpture park.",
+    "status_en": "revisado-2026",
+    "curiosidades": [
+      {
+        "texto": "Sedia o Encontro Nordestino de Xaxado.",
+        "texto_en": "It hosts the Encontro Nordestino de Xaxado (Northeastern Xaxado Festival)."
+      }
+    ],
+    "imagens": [
+      {
+        "arquivo": "estacao-do-forro.jpg",
+        "fonte": "",
+        "direitos": "verificar",
+        "legenda": ""
+      }
+    ],
+    "origem": "pesquisa 2026",
+    "url_legado": null,
+    "pendencias": [
+      "Coordenada conferida pelos alunos no Google Maps (27/10/2026)."
+    ]
+  },
+  {
+    "slug": "acude-cachoeira",
+    "cidade": "serra-talhada",
+    "nome": "Açude Cachoeira II",
+    "categoria": "Natureza",
+    "categoria_en": "Nature",
+    "endereco": "Zona rural, Serra Talhada - PE",
+    "latitude": -7.9689,
+    "longitude": -38.3327,
+    "status_coordenadas": "conferida",
+    "descricao": "Quando cheio, o açude transborda e forma uma cachoeira. Permite pesca e passeios de barco, e tem um mirante com belo pôr do sol.",
+    "descricao_en": "When the reservoir is full, it overflows and forms a waterfall. Visitors can fish and take boat rides, and there is a viewpoint with a beautiful sunset.",
+    "status_en": "revisado-2026",
+    "curiosidades": [],
+    "imagens": [
+      {
+        "arquivo": "acude-cachoeira.jpg",
+        "fonte": "",
+        "direitos": "verificar",
+        "legenda": ""
+      }
+    ],
+    "origem": "pesquisa 2026",
+    "url_legado": null,
+    "pendencias": [
+      "A Barragem de Serrinha é outro reservatório de Serra Talhada (não confundir)."
+    ]
+  },
+  {
+    "slug": "pereirao",
+    "cidade": "serra-talhada",
+    "nome": "Estádio Municipal Nildo Pereira de Menezes (Pereirão)",
+    "categoria": "Esporte",
+    "categoria_en": "Sports",
+    "endereco": "Serra Talhada - PE",
+    "latitude": -7.9919,
+    "longitude": -38.2983,
+    "status_coordenadas": "aproximada",
+    "descricao": "O Estádio Municipal Nildo Pereira de Menezes, conhecido como Pereirão, é o principal estádio de futebol de Serra Talhada. É a casa do Serra Talhada Futebol Clube e do Ferroviário Esporte Clube nos jogos do Campeonato Pernambucano.",
+    "descricao_en": "The Nildo Pereira de Menezes Municipal Stadium, known as Pereirão, is the main football stadium in Serra Talhada. It is the home ground of Serra Talhada Futebol Clube and Ferroviário Esporte Clube in the Pernambuco State Championship.",
+    "status_en": "revisado-2026",
+    "curiosidades": [
+      {
+        "texto": "O Ferroviário Esporte Clube, fundado em 1979, foi campeão da Série A2 do Campeonato Pernambucano em 1997.",
+        "texto_en": "Ferroviário Esporte Clube, founded in 1979, won the Pernambuco Championship Série A2 in 1997."
+      }
+    ],
+    "imagens": [
+      {
+        "arquivo": "pereirao.jpg",
+        "fonte": "",
+        "direitos": "verificar",
+        "legenda": ""
+      }
+    ],
+    "origem": "pesquisa 2026 (sugestão dos alunos)",
+    "url_legado": null,
+    "pendencias": [
+      "Localização: coordenada do centro da cidade — marcar o estádio no mapa.",
+      "Capacidade divergente nas fontes (5 mil na Wikipédia, 7 mil no site do Serra Talhada FC); ano de inauguração não encontrado."
+    ]
+  },
+  {
+    "slug": "santuario-nossa-senhora-de-lourdes",
+    "cidade": "solidao",
+    "nome": "Gruta de Nossa Senhora de Lourdes",
+    "categoria": "Patrimônio Religioso",
+    "categoria_en": "Religious Heritage",
+    "endereco": "Solidão - PE",
+    "latitude": -7.6007,
+    "longitude": -37.6527,
+    "status_coordenadas": "conferida",
+    "descricao": "Escadaria com uma gruta construída pelo padre Osvaldo, de Tabira, junto com a população. Ao lado começou a brotar uma água límpida, tida como milagrosa, e o lugar passou a receber romarias. A capela com a imagem da padroeira ficou pronta em 1947.",
+    "descricao_en": "A stairway with a grotto built by Father Osvaldo, from Tabira, together with the townspeople. Clear water began to spring beside it, believed to be miraculous, and the site started to draw pilgrims. The chapel with the image of the patron saint was finished in 1947.",
+    "status_en": "revisado-2026",
+    "curiosidades": [],
+    "imagens": [
+      {
+        "arquivo": "santuario-nossa-senhora-de-lourdes.jpg",
+        "fonte": "",
+        "direitos": "verificar",
+        "legenda": ""
+      }
+    ],
+    "origem": "pesquisa 2026",
+    "url_legado": null,
+    "pendencias": [
+      "A pesquisa listava a gruta e o santuário como dois pontos; foram unidos.",
+      "CORRIGIDO: a prefeitura de Solidão não usa \"Santuário\"; texto refeito com a história do site oficial (solidao.pe.gov.br/a-cidade/historia)."
+    ]
+  },
+  {
+    "slug": "igreja-matriz-nossa-senhora-dos-remedios-tabira",
+    "cidade": "tabira",
+    "nome": "Igreja Matriz de Nossa Senhora dos Remédios",
+    "categoria": "Patrimônio Religioso",
+    "categoria_en": "Religious Heritage",
+    "endereco": "Centro, Tabira - PE",
+    "latitude": -7.5921,
+    "longitude": -37.5403,
+    "status_coordenadas": "conferida",
+    "descricao": "Principal igreja da cidade, com arquitetura imponente, construída em terreno doado pelo fundador de Tabira.",
+    "descricao_en": "The town's main church, with imposing architecture, built on land donated by the founder of Tabira.",
+    "status_en": "revisado-2026",
+    "curiosidades": [],
+    "imagens": [
+      {
+        "arquivo": "igreja-matriz-tabira.jpg",
+        "fonte": "Google Imagens",
+        "direitos": "verificar",
+        "legenda": ""
+      }
+    ],
+    "origem": "pesquisa 2026",
+    "url_legado": null,
+    "pendencias": [
+      "Imagem sem origem (Google Imagens): trocar por foto livre ou própria."
+    ]
+  },
+  {
+    "slug": "feira-de-gado-de-tabira",
+    "cidade": "tabira",
+    "nome": "Feira de Gado de Tabira",
+    "categoria": "Cultura",
+    "categoria_en": "Culture",
+    "endereco": "Tabira - PE",
+    "latitude": -7.59,
+    "longitude": -37.535,
+    "status_coordenadas": "aproximada",
+    "descricao": "Feira tradicional que movimenta a economia local e atrai criadores de gado de toda a região.",
+    "descricao_en": "A traditional cattle fair that drives the local economy and attracts cattle breeders from across the region.",
+    "status_en": "revisado-2026",
+    "curiosidades": [],
+    "imagens": [
+      {
+        "arquivo": "feira-de-gado-de-tabira.jpg",
+        "fonte": "",
+        "direitos": "verificar",
+        "legenda": ""
+      }
+    ],
+    "origem": "pesquisa 2026",
+    "url_legado": null,
+    "pendencias": [
+      "Informar dia da semana da feira."
+    ]
+  },
+  {
+    "slug": "pico-do-papagaio",
+    "cidade": "triunfo",
+    "nome": "Pico do Papagaio",
+    "categoria": "Natureza",
+    "categoria_en": "Nature",
+    "endereco": "Zona rural, Triunfo - PE",
+    "latitude": -7.8203,
+    "longitude": -38.0561,
+    "status_coordenadas": "conferida",
+    "descricao": "O Pico do Papagaio, situado em Triunfo, é considerado o ponto mais alto de Pernambuco, com cerca de 1.260 metros de altitude. Conhecido pela vista ampla do sertão, o local possui um mirante natural que permite observar vales e serras.\n\nNo topo, há também a estátua de um Careta, figura tradicional do carnaval triunfense. Graças ao clima ameno e ao cenário impressionante, é ideal para quem busca natureza e um pôr do sol marcante.",
+    "descricao_en": "Pico do Papagaio, located in Triunfo, is considered the highest point in Pernambuco, at about 1,260 meters above sea level. Known for its sweeping views of the sertão, it has a natural viewpoint overlooking valleys and hills.\n\nAt the top there is also a statue of a Careta, a traditional figure of the Triunfo carnival. Thanks to its mild climate and impressive scenery, it is ideal for nature lovers and for watching a memorable sunset.",
+    "status_en": "revisado-2026",
+    "curiosidades": [
+      {
+        "texto": "Fica a cerca de 8 km do centro de Triunfo. A estátua do Careta no topo é obra do artista Nino Abraão.",
+        "texto_en": "It is about 8 km from downtown Triunfo. The Careta statue at the top is the work of artist Nino Abraão."
+      }
+    ],
+    "imagens": [
+      {
+        "arquivo": "pico-do-papagaio.jpg",
+        "fonte": "TripAdvisor",
+        "direitos": "verificar",
+        "legenda": ""
+      },
+      {
+        "arquivo": "pico-do-papagaio-2.jpg",
+        "fonte": "",
+        "direitos": "verificar",
+        "legenda": ""
+      }
+    ],
+    "origem": "v1.0 (2025) + pesquisa 2026",
+    "url_legado": "/pontos/pico-do-papagaio.html",
+    "pendencias": [
+      "CORRIGIDO: a v1.0 dizia 1.185 m; a pesquisa de 2026 e a Wikipédia dizem 1.260 m."
+    ]
+  },
+  {
+    "slug": "theatro-cinema-guarany",
+    "cidade": "triunfo",
+    "nome": "Cine Theatro Guarany",
+    "categoria": "Cultura",
+    "categoria_en": "Culture",
+    "endereco": "Centro, Triunfo - PE",
+    "latitude": -7.838,
+    "longitude": -38.102,
+    "status_coordenadas": "aproximada",
+    "descricao": "Ícone do audiovisual e das artes cênicas no interior do estado, o Cine Theatro Guarany, localizado na cidade de Triunfo, é uma das principais atrações turísticas do sertão pernambucano.\n\nConstruído em 1922, é uma edificação de grande porte que se destaca no conjunto urbano da cidade. É sede do Festival de Cinema de Triunfo e dispõe de uma programação regular de cinema e espetáculos.",
+    "descricao_en": "A landmark of audiovisual and performing arts in the interior of the state, the Cine Theatro Guarany, located in the city of Triunfo, is one of the main tourist attractions of the Pernambuco hinterland.\n\nBuilt in 1922, it is a large building that stands out in the city's urban landscape. It hosts the Triunfo Film Festival and has a regular program of films and performances.",
+    "status_en": "revisado-2025",
+    "curiosidades": [],
+    "imagens": [
+      {
+        "arquivo": "theatro-cinema-guarany.jpg",
+        "fonte": "",
+        "direitos": "verificar",
+        "legenda": ""
+      },
+      {
+        "arquivo": "theatro-cinema-guarany-2.jpg",
+        "fonte": "",
+        "direitos": "verificar",
+        "legenda": ""
+      }
+    ],
+    "origem": "v1.0 (2025)",
+    "url_legado": "/pontos/theatro-cinema-guarany.html",
+    "pendencias": []
+  },
+  {
+    "slug": "igreja-matriz-dores",
+    "cidade": "triunfo",
+    "nome": "Igreja Matriz de Nossa Senhora das Dores",
+    "categoria": "Patrimônio Religioso",
+    "categoria_en": "Religious Heritage",
+    "endereco": "Centro, Triunfo - PE",
+    "latitude": -7.8387,
+    "longitude": -38.1024,
+    "status_coordenadas": "conferida",
+    "descricao": "A Igreja Matriz de Nossa Senhora das Dores em Triunfo, Pernambuco, é um importante patrimônio cultural e religioso, com um belo estilo eclético, notável campanário e grande escadaria.\n\nSendo a padroeira da cidade, a igreja é um marco turístico no alto da Serra da Baixa Verde, local de fé e devoção para os triunfenses, tombada como patrimônio histórico.",
+    "descricao_en": "The Igreja Matriz de Nossa Senhora das Dores in Triunfo, Pernambuco, is an important cultural and religious heritage site, with a beautiful eclectic style, a remarkable bell tower and a grand staircase.\n\nDedicated to the city's patron saint, the church is a tourist landmark high in the Serra da Baixa Verde, a place of faith and devotion for the people of Triunfo, and is listed as historical heritage.",
+    "status_en": "revisado-2026",
+    "curiosidades": [],
+    "imagens": [
+      {
+        "arquivo": "igreja-matriz-dores.jpg",
+        "fonte": "Pinterest / Google Imagens",
+        "direitos": "verificar",
+        "legenda": ""
+      },
+      {
+        "arquivo": "igreja-matriz-dores-2.jpg",
+        "fonte": "",
+        "direitos": "verificar",
+        "legenda": ""
+      }
+    ],
+    "origem": "v1.0 (2025)",
+    "url_legado": "/pontos/igreja-matriz-dores.html",
+    "pendencias": []
+  },
+  {
+    "slug": "engenho-sao-pedro",
+    "cidade": "triunfo",
+    "nome": "Engenho São Pedro",
+    "categoria": "Cultura",
+    "categoria_en": "Culture",
+    "endereco": "Zona rural, Triunfo - PE",
+    "latitude": -7.8387,
+    "longitude": -38.1024,
+    "status_coordenadas": "aproximada",
+    "descricao": "O Engenho de São Pedro é um dos principais símbolos históricos e culturais de Triunfo, em Pernambuco, e hoje figura entre os lugares mais visitados por quem deseja conhecer a tradição da cachaça artesanal no Sertão do Pajeú.\n\nO visitante acompanha desde a moagem da cana até a fermentação e a destilação nos tradicionais alambiques de cobre — tudo feito de forma artesanal, preservando técnicas que atravessam gerações.\n\nO local mantém sua estrutura histórica, com moendas e galpões que ajudam a contar a trajetória da produção rural em Triunfo, oferecendo uma atmosfera tranquila e acolhedora.",
+    "descricao_en": "The São Pedro Engenho is one of the main historical and cultural landmarks of Triunfo, Pernambuco, and today stands among the most visited places for those who want to experience the tradition of artisanal cachaça production in the Sertão do Pajeú.\n\nVisitors can observe every step of the process — from grinding the sugarcane to fermentation and distillation in traditional copper stills — all crafted using techniques passed down through generations.\n\nThe site preserves its historic structure, with old mills and warehouses that help tell the story of rural production in Triunfo, offering a peaceful and welcoming atmosphere.",
+    "status_en": "revisado-2025",
+    "curiosidades": [],
+    "imagens": [
+      {
+        "arquivo": "engenho-sao-pedro.jpg",
+        "fonte": "TripAdvisor",
+        "direitos": "verificar",
+        "legenda": ""
+      },
+      {
+        "arquivo": "engenho-sao-pedro-2.jpg",
+        "fonte": "",
+        "direitos": "verificar",
+        "legenda": ""
+      }
+    ],
+    "origem": "v1.0 (2025)",
+    "url_legado": "/pontos/engenho-sao-pedro.html",
+    "pendencias": [
+      "Localização: Fica no Sítio Bela Vista, ~500 m do centro de Triunfo; coordenada do centro até marcar no mapa."
+    ]
+  },
+  {
+    "slug": "casa-grande-das-almas",
+    "cidade": "triunfo",
+    "nome": "Casa Grande das Almas",
+    "categoria": "Patrimônio Histórico",
+    "categoria_en": "Historical Heritage",
+    "endereco": "Zona rural, Triunfo - PE (divisa com a Paraíba)",
+    "latitude": -7.8,
+    "longitude": -38.08,
+    "status_coordenadas": "aproximada",
+    "descricao": "A Casa Grande das Almas em Triunfo (PE) é um casarão histórico do século XIX, famoso por estar na divisa entre Pernambuco e Paraíba, o que permitia ao cangaceiro Lampião se esconder da polícia alternando entre os estados.\n\nConstruída pelo coronel João Timóteo, a propriedade virou museu, mantendo a estrutura original, móveis de época e um sótão onde Lampião jogava cartas, além de ter um castelo inacabado e um cemitério particular.",
+    "descricao_en": "Casa Grande das Almas in Triunfo (PE) is a 19th-century historic mansion, famous for standing on the border between Pernambuco and Paraíba, which allowed the cangaceiro Lampião to hide from the police by moving from one state to the other.\n\nBuilt by Colonel João Timóteo, the property became a museum. It keeps its original structure, period furniture and an attic where Lampião played cards, and the grounds also include an unfinished castle and a private cemetery.",
+    "status_en": "revisado-2026",
+    "curiosidades": [],
+    "imagens": [
+      {
+        "arquivo": "casa-grande-das-almas.jpg",
+        "fonte": "Google Imagens",
+        "direitos": "verificar",
+        "legenda": ""
+      },
+      {
+        "arquivo": "casa-grande-das-almas-2.jpg",
+        "fonte": "",
+        "direitos": "verificar",
+        "legenda": ""
+      }
+    ],
+    "origem": "v1.0 (2025)",
+    "url_legado": "/pontos/casa-grande-das-almas.html",
+    "pendencias": [
+      "Localização: Fica no Sítio Almas, ~2 km do centro de Triunfo, na divisa com a PB; a coordenada atual (~5 km) está errada — marcar no mapa."
+    ]
+  },
+  {
+    "slug": "lago-joao-barbosa-sitonio",
+    "cidade": "triunfo",
+    "nome": "Lago João Barbosa Sitônio",
+    "categoria": "Lazer",
+    "categoria_en": "Leisure",
+    "endereco": "Entrada da cidade, Triunfo - PE",
+    "latitude": -7.8385,
+    "longitude": -38.1022,
+    "status_coordenadas": "aproximada",
+    "descricao": "Lago na entrada da cidade, com teleférico e pedalinhos.",
+    "descricao_en": "A lake at the entrance to the town, with a cable car and pedal boats.",
+    "status_en": "revisado-2026",
+    "curiosidades": [
+      {
+        "texto": "O teleférico que cruza o lago oferece uma vista panorâmica da cidade.",
+        "texto_en": "The cable car that crosses the lake offers a panoramic view of the town."
+      }
+    ],
+    "imagens": [
+      {
+        "arquivo": "lago-joao-barbosa-sitonio.jpg",
+        "fonte": "",
+        "direitos": "verificar",
+        "legenda": ""
+      }
+    ],
+    "origem": "pesquisa 2026",
+    "url_legado": null,
+    "pendencias": [
+      "Coordenada aproximada."
+    ]
+  },
+  {
+    "slug": "centro-historico-triunfo",
+    "cidade": "triunfo",
+    "nome": "Centro Histórico de Triunfo",
+    "categoria": "Patrimônio Histórico",
+    "categoria_en": "Historical Heritage",
+    "endereco": "Centro, Triunfo - PE",
+    "latitude": -7.8385,
+    "longitude": -38.1022,
+    "status_coordenadas": "aproximada",
+    "descricao": "Conjunto arquitetônico de casarões históricos dos séculos XIX e XX.",
+    "descricao_en": "An architectural ensemble of historic mansions from the 19th and 20th centuries.",
+    "status_en": "revisado-2026",
+    "curiosidades": [],
+    "imagens": [
+      {
+        "arquivo": "centro-historico-triunfo.jpg",
+        "fonte": "",
+        "direitos": "verificar",
+        "legenda": ""
+      }
+    ],
+    "origem": "pesquisa 2026",
+    "url_legado": null,
+    "pendencias": [
+      "Coordenada aproximada.",
+      "A foto tem marca d'água de outro site (alepolvorines.com.ar) — pedir autorização ou trocar."
+    ]
+  },
+  {
+    "slug": "museu-do-cangaco-triunfo",
+    "cidade": "triunfo",
+    "nome": "Museu do Cangaço de Triunfo",
+    "categoria": "Museu",
+    "categoria_en": "Museum",
+    "endereco": "Triunfo - PE",
+    "latitude": -7.8383,
+    "longitude": -38.1013,
+    "status_coordenadas": "aproximada",
+    "descricao": "Museu no centro de Triunfo com acervo de mais de 500 peças, reunido desde 1975, em grande parte por doações. Expõe objetos, fotografias e documentos sobre Lampião, seus cangaceiros e a história da cidade.",
+    "descricao_en": "A museum in central Triunfo with a collection of more than 500 items, gathered since 1975, largely through donations. It displays objects, photographs and documents about Lampião, his cangaceiros and the town's history.",
+    "status_en": "revisado-2026",
+    "curiosidades": [
+      {
+        "texto": "Fica a poucos passos do Cine Theatro Guarany e da Casa do Careta, e dá para visitar os três a pé.",
+        "texto_en": "It is a short walk from the Cine Theatro Guarany and the Casa do Careta, so all three can be visited on foot."
+      }
+    ],
+    "imagens": [
+      {
+        "arquivo": "museu-do-cangaco-triunfo.jpg",
+        "fonte": "",
+        "direitos": "verificar",
+        "legenda": ""
+      }
+    ],
+    "origem": "revisão 2026",
+    "url_legado": null,
+    "fontes": [
+      "https://www.triunfo.pe.gov.br/pm_tr430/wp-content/uploads/2018/08/Catalogo-Final-APROVADO-1.pdf",
+      "https://portaldeprefeitura.com.br/dicas-do-portal/triunfo-pe-a-joia-do-sertao-e-suica-pernambucana-com-clima/594776/",
+      "https://www.buser.com.br/destinos/pontos-turisticos/pe/triunfo/museu-do-cangaco-e-da-cidade-de-triunfo"
+    ],
+    "pendencias": [
+      "Coordenada aproximada: marcar o local exato no mapa."
+    ]
+  },
+  {
+    "slug": "teleferico-sesc-triunfo",
+    "cidade": "triunfo",
+    "nome": "Teleférico do Sesc Triunfo",
+    "categoria": "Lazer",
+    "categoria_en": "Leisure",
+    "endereco": "Triunfo - PE",
+    "latitude": -7.8378,
+    "longitude": -38.0995,
+    "status_coordenadas": "aproximada",
+    "descricao": "Teleférico que sai da margem do Lago João Barbosa Sitônio e sobe até o Centro de Lazer Sesc, no alto da serra, em percurso de cerca de 25 minutos. Durante a subida dá para ver o centro da cidade e as serras ao redor.",
+    "descricao_en": "A cable car that leaves from the shore of Lake João Barbosa Sitônio and climbs to the Sesc Leisure Center at the top of the ridge, a ride of about 25 minutes. On the way up, riders see the town center and the surrounding mountains.",
+    "status_en": "revisado-2026",
+    "curiosidades": [
+      {
+        "texto": "É um dos poucos teleféricos do Nordeste e liga o Lago João Barbosa Sitônio ao alto da serra.",
+        "texto_en": "It is one of the few cable cars in the Northeast and links Lake João Barbosa Sitônio to the top of the ridge."
+      }
+    ],
+    "imagens": [
+      {
+        "arquivo": "teleferico-sesc-triunfo.jpg",
+        "fonte": "",
+        "direitos": "verificar",
+        "legenda": ""
+      },
+      {
+        "arquivo": "teleferico-sesc-triunfo-2.jpg",
+        "fonte": "",
+        "direitos": "verificar",
+        "legenda": ""
+      }
+    ],
+    "origem": "revisão 2026",
+    "url_legado": null,
+    "fontes": [
+      "https://www.triunfo.pe.gov.br/pm_tr430/wp-content/uploads/2018/08/Catalogo-Final-APROVADO-1.pdf",
+      "https://clickpetroleoegas.com.br/o-oasis-no-meio-do-sertao-pernambucano-a-cidade-a-1-000-metros-de-altitude-com-clima-frio-teleferico-e-cinema-mhbb01/",
+      "https://portaldeprefeitura.com.br/dicas-do-portal/triunfo-pe-a-joia-do-sertao-e-suica-pernambucana-com-clima/594776/"
+    ],
+    "pendencias": [
+      "Coordenada aproximada: marcar o local exato no mapa."
+    ]
+  },
+  {
+    "slug": "casa-do-careta",
+    "cidade": "triunfo",
+    "nome": "Casa do Careta (Caretas de Triunfo)",
+    "categoria": "Cultura",
+    "categoria_en": "Culture",
+    "endereco": "Triunfo - PE",
+    "latitude": -7.84,
+    "longitude": -38.104,
+    "status_coordenadas": "aproximada",
+    "descricao": "Museu no bairro Alto da Boa Vista dedicado aos Caretas, figuras mascaradas do carnaval de Triunfo, com fantasias, máscaras e outros objetos. Os Caretas saem em grupos chamados 'trecas', e a segunda-feira de carnaval é o seu dia.",
+    "descricao_en": "A museum in the Alto da Boa Vista neighborhood dedicated to the Caretas, the masked figures of Triunfo's carnival, displaying costumes, masks and other objects. The Caretas parade in groups called 'trecas', and Carnival Monday is their day.",
+    "status_en": "revisado-2026",
+    "curiosidades": [
+      {
+        "texto": "Segundo a tradição, o Careta surgiu em 1917 durante um reisado. O relho, chicote de cerca de três metros, estala como um tiro e chama o povo para a porta.",
+        "texto_en": "According to tradition, the Careta first appeared in 1917 during a reisado (Epiphany folk festival). The relho, a whip about three meters long, cracks like a gunshot and draws people to their doors."
+      }
+    ],
+    "imagens": [
+      {
+        "arquivo": "casa-do-careta.jpg",
+        "fonte": "",
+        "direitos": "verificar",
+        "legenda": ""
+      }
+    ],
+    "origem": "revisão 2026",
+    "url_legado": null,
+    "fontes": [
+      "https://www.diariodepernambuco.com.br/noticia/turismo/2019/04/amp/conheca-a-historia-do-careta-figura-popular-triunfense.html",
+      "https://agenciasebrae.com.br/cultura-empreendedora/empreendedor-transforma-tradicao-carnavalesca-dos-caretas-de-triunfo-em-um-bom-negocio-para-o-ano-todo",
+      "https://ne9.com.br/sertao-do-pajeu-17-municipios-poesia-cultura-historia/"
+    ],
+    "pendencias": [
+      "Coordenada aproximada: marcar o local exato no mapa."
+    ]
+  },
+  {
+    "slug": "igreja-matriz-tuparetama",
+    "cidade": "tuparetama",
+    "nome": "Igreja Matriz do Sagrado Coração de Jesus",
+    "categoria": "Patrimônio Religioso",
+    "categoria_en": "Religious Heritage",
+    "endereco": "Centro, Tuparetama - PE",
+    "latitude": -7.6004,
+    "longitude": -37.3104,
+    "status_coordenadas": "conferida",
+    "descricao": "Igreja matriz da Paróquia do Sagrado Coração de Jesus, cartão-postal do centro da cidade e seu principal templo religioso.",
+    "descricao_en": "The mother church of the Parish of the Sacred Heart of Jesus, the postcard view of the town center and its main place of worship.",
+    "status_en": "revisado-2026",
+    "curiosidades": [],
+    "imagens": [
+      {
+        "arquivo": "igreja-matriz-tuparetama.jpg",
+        "fonte": "",
+        "direitos": "verificar",
+        "legenda": ""
+      }
+    ],
+    "origem": "pesquisa 2026",
+    "url_legado": null,
+    "pendencias": [
+      "REMOVIDO: \"Academia das Cidades\" (é um equipamento esportivo público, não um ponto turístico)."
+    ]
+  },
+  {
+    "slug": "cinema-rio-branco",
+    "cidade": "arcoverde",
+    "nome": "Cinema Rio Branco",
+    "categoria": "Cultura",
+    "categoria_en": "Culture",
+    "endereco": "Avenida Antônio Japiassu, Centro, Arcoverde - PE",
+    "latitude": -8.4184,
+    "longitude": -37.0537,
+    "status_coordenadas": "aproximada",
+    "descricao": "Cinema centenário, inaugurado em 1917, é um importante patrimônio cultural de Arcoverde e um dos cinemas mais antigos do Brasil ainda em funcionamento.",
+    "descricao_en": "A cinema more than a century old, opened in 1917. It is an important part of Arcoverde's cultural heritage and one of the oldest cinemas in Brazil still in operation.",
+    "status_en": "revisado-2026",
+    "curiosidades": [
+      {
+        "texto": "Em 2017, no seu centenário, passou a exibir filmes com projetor digital.",
+        "texto_en": "In 2017, its centenary year, it began showing films with a digital projector."
+      }
+    ],
+    "imagens": [
+      {
+        "arquivo": "cinema-rio-branco.jpg",
+        "fonte": "Wikimedia Commons",
+        "direitos": "livre - conferir",
+        "legenda": ""
+      }
+    ],
+    "origem": "pesquisa 2026",
+    "url_legado": null,
+    "pendencias": [
+      "CORRIGIDO: a pesquisa dizia \"o cinema mais antigo em funcionamento da América Latina\" — a afirmação não se confirma; foi suavizada."
+    ]
+  },
+  {
+    "slug": "alto-do-cruzeiro",
+    "cidade": "arcoverde",
+    "nome": "Alto do Cruzeiro",
+    "categoria": "Cultura",
+    "categoria_en": "Culture",
+    "endereco": "Bairro São Cristóvão, Arcoverde - PE",
+    "latitude": -8.413168,
+    "longitude": -37.050168,
+    "status_coordenadas": "conferida",
+    "descricao": "Mirante natural numa das áreas mais altas da cidade, com vista panorâmica de Arcoverde. É um dos polos oficiais das festas do ciclo junino.",
+    "descricao_en": "A natural viewpoint in one of the highest parts of town, with a panoramic view of Arcoverde. It is one of the official venues of the June festivals.",
+    "status_en": "revisado-2026",
+    "curiosidades": [
+      {
+        "texto": "O bairro é conhecido como berço do Coco Raízes de Arcoverde, grupo conhecido internacionalmente.",
+        "texto_en": "The neighborhood is known as the birthplace of Coco Raízes de Arcoverde, an internationally known coco music group."
+      }
+    ],
+    "imagens": [
+      {
+        "arquivo": "alto-do-cruzeiro-2.jpg",
+        "fonte": "",
+        "direitos": "verificar",
+        "legenda": ""
+      },
+      {
+        "arquivo": "alto-do-cruzeiro.jpg",
+        "fonte": "",
+        "direitos": "verificar",
+        "legenda": ""
+      }
+    ],
+    "origem": "pesquisa 2026",
+    "url_legado": null,
+    "pendencias": []
+  },
+  {
+    "slug": "estacao-da-cultura",
+    "cidade": "arcoverde",
+    "nome": "Estação da Cultura",
+    "categoria": "Cultura",
+    "categoria_en": "Culture",
+    "endereco": "Praça Barão do Rio Branco, Centro, Arcoverde - PE",
+    "latitude": -8.4177,
+    "longitude": -37.056,
+    "status_coordenadas": "aproximada",
+    "descricao": "Espaço cultural instalado na antiga estação ferroviária de 1912, construída com características da companhia inglesa Great Western. Recebe eventos, exposições e apresentações artísticas.",
+    "descricao_en": "A cultural center in the old railway station, built in 1912 in the style of the British Great Western railway company. It hosts events, exhibitions and artistic performances.",
+    "status_en": "revisado-2026",
+    "curiosidades": [
+      {
+        "texto": "O prédio preserva elementos da época em que a ferrovia impulsionou a economia da região.",
+        "texto_en": "The building preserves features from the time when the railway boosted the region's economy."
+      }
+    ],
+    "imagens": [
+      {
+        "arquivo": "estacao-da-cultura.jpg",
+        "fonte": "",
+        "direitos": "verificar",
+        "legenda": ""
+      }
+    ],
+    "origem": "pesquisa 2026",
+    "url_legado": null,
+    "pendencias": [
+      "A pesquisa tinha \"Estação Ferroviária (desativada)\" e \"Estação da Cultura\" como pontos separados; são o mesmo prédio."
+    ]
+  },
+  {
+    "slug": "museu-do-boi",
+    "cidade": "arcoverde",
+    "nome": "Museu do Boi",
+    "categoria": "Museu",
+    "categoria_en": "Museum",
+    "endereco": "Praça Antônio Bezerra Figueiredo, 19, Boa Vista, Arcoverde - PE",
+    "latitude": -8.42,
+    "longitude": -37.057,
+    "status_coordenadas": "aproximada",
+    "descricao": "Museu dedicado à história e às tradições do Bumba Meu Boi e dos bois de carnaval de Pernambuco, com fotografias, documentos, fantasias e adereços.",
+    "descricao_en": "A museum dedicated to the history and traditions of Bumba Meu Boi and the carnival \"bois\" (bull figures) of Pernambuco, with photographs, documents, costumes and props.",
+    "status_en": "revisado-2026",
+    "curiosidades": [
+      {
+        "texto": "Fundado em 2012, é considerado o primeiro Museu do Boi de Pernambuco.",
+        "texto_en": "Founded in 2012, it is considered the first Boi Museum in Pernambuco."
+      }
+    ],
+    "imagens": [
+      {
+        "arquivo": "museu-do-boi-fachada.jpg",
+        "fonte": "Google Street View",
+        "direitos": "verificar",
+        "legenda": ""
+      }
+    ],
+    "origem": "pesquisa 2026",
+    "url_legado": null,
+    "pendencias": []
+  },
+  {
+    "slug": "serra-do-jacare",
+    "cidade": "arcoverde",
+    "nome": "Serra do Jacaré",
+    "categoria": "Natureza",
+    "categoria_en": "Nature",
+    "endereco": "Zona rural, Arcoverde - PE",
+    "latitude": -8.355,
+    "longitude": -37.12,
+    "status_coordenadas": "aproximada",
+    "descricao": "Área natural procurada para trilhas ecológicas e caminhadas, com formações rochosas, vegetação nativa e vista panorâmica da cidade.",
+    "descricao_en": "A natural area popular for ecological trails and hikes, with rock formations, native vegetation and a panoramic view of the town.",
+    "status_en": "revisado-2026",
+    "curiosidades": [],
+    "imagens": [
+      {
+        "arquivo": "serra-do-jacare.jpg",
+        "fonte": "",
+        "direitos": "verificar",
+        "legenda": ""
+      }
+    ],
+    "origem": "pesquisa 2026",
+    "url_legado": null,
+    "pendencias": [
+      "A pesquisa diz \"3 km do centro\", mas a coordenada fica a quase 10 km — conferir."
+    ]
+  },
+  {
+    "slug": "casa-augusto-cavalcanti",
+    "cidade": "arcoverde",
+    "nome": "Casa Augusto Cavalcanti",
+    "categoria": "Patrimônio Histórico",
+    "categoria_en": "Historical Heritage",
+    "endereco": "Centro, Arcoverde - PE",
+    "latitude": -8.42,
+    "longitude": -37.05,
+    "status_coordenadas": "aproximada",
+    "descricao": "Casa erguida em 1919 que pertenceu ao usineiro Augusto Cavalcanti. É propriedade privada: a visita é só por fora.",
+    "descricao_en": "A house built in 1919 that belonged to sugar mill owner Augusto Cavalcanti. It is private property, so it can only be seen from the outside.",
+    "status_en": "revisado-2026",
+    "curiosidades": [
+      {
+        "texto": "Augusto Cavalcanti trouxe a energia elétrica e o primeiro cinema para a cidade.",
+        "texto_en": "Augusto Cavalcanti brought electricity and the first cinema to the town."
+      }
+    ],
+    "imagens": [
+      {
+        "arquivo": "casa-augusto-cavalcanti.jpg",
+        "fonte": "",
+        "direitos": "verificar",
+        "legenda": ""
+      }
+    ],
+    "origem": "pesquisa 2026",
+    "url_legado": null,
+    "pendencias": [
+      "Coordenada aproximada."
+    ]
+  },
+  {
+    "slug": "fazenda-fundao",
+    "cidade": "arcoverde",
+    "nome": "Fazenda Fundão (Casa do Cardeal Arcoverde)",
+    "categoria": "Patrimônio Histórico",
+    "categoria_en": "Historical Heritage",
+    "endereco": "BR-424, Arcoverde - PE",
+    "latitude": -8.42,
+    "longitude": -37.05,
+    "status_coordenadas": "aproximada",
+    "descricao": "Casa onde nasceu Dom Joaquim Arcoverde, o primeiro cardeal do Brasil, que dá nome à cidade. Foi provavelmente construída entre o fim do século XVIII e o início do XIX.",
+    "descricao_en": "The house where Dom Joaquim Arcoverde, Brazil's first cardinal and the town's namesake, was born. It was probably built between the late 18th and early 19th centuries.",
+    "status_en": "revisado-2026",
+    "curiosidades": [],
+    "imagens": [
+      {
+        "arquivo": "fazenda-fundao.jpg",
+        "fonte": "",
+        "direitos": "verificar",
+        "legenda": ""
+      }
+    ],
+    "origem": "pesquisa 2026",
+    "url_legado": null,
+    "pendencias": [
+      "Coordenada aproximada."
+    ]
+  },
+  {
+    "slug": "cecora",
+    "cidade": "arcoverde",
+    "nome": "CECORA — Centro Comercial de Arcoverde",
+    "categoria": "Lazer",
+    "categoria_en": "Leisure",
+    "endereco": "Centro, Arcoverde - PE",
+    "latitude": -8.4193,
+    "longitude": -37.0549,
+    "status_coordenadas": "aproximada",
+    "descricao": "Centro comercial com artesanato, produtos regionais e comidas típicas do sertão pernambucano.",
+    "descricao_en": "A shopping center with handicrafts, regional products and typical food of the Pernambuco sertão.",
+    "status_en": "revisado-2026",
+    "curiosidades": [
+      {
+        "texto": "É um dos melhores lugares para conhecer a cultura local e comprar produtos de artesãos da região.",
+        "texto_en": "It is one of the best places to experience local culture and buy products made by artisans from the region."
+      }
+    ],
+    "imagens": [
+      {
+        "arquivo": "cecora.jpg",
+        "fonte": "",
+        "direitos": "verificar",
+        "legenda": ""
+      }
+    ],
+    "origem": "pesquisa 2026",
+    "url_legado": null,
+    "pendencias": []
+  },
+  {
+    "slug": "igreja-matriz-livramento-arcoverde",
+    "cidade": "arcoverde",
+    "nome": "Igreja Matriz de Nossa Senhora do Livramento",
+    "categoria": "Patrimônio Religioso",
+    "categoria_en": "Religious Heritage",
+    "endereco": "Arcoverde - PE",
+    "latitude": -8.41931,
+    "longitude": -37.05344,
+    "status_coordenadas": "conferida",
+    "descricao": "Igreja matriz da paróquia de Nossa Senhora do Livramento, criada em 1918 e ligada à Diocese de Pesqueira. Sua origem é a capela de Nossa Senhora do Livramento, erguida em 1865 por Leonardo Couto quando fundou o povoado de Olho d'Água dos Bredos, que deu origem a Arcoverde.",
+    "descricao_en": "Mother church of the parish of Our Lady of Livramento, created in 1918 and part of the Diocese of Pesqueira. It grew out of the chapel of Our Lady of Livramento, built in 1865 by Leonardo Couto when he founded the settlement of Olho d'Água dos Bredos, which became Arcoverde.",
+    "status_en": "revisado-2026",
+    "curiosidades": [
+      {
+        "texto": "Antes de se chamar Arcoverde (1943), a cidade se chamou Olho d'Água dos Bredos e depois Rio Branco (1909), nome que sobrevive no Cinema Rio Branco.",
+        "texto_en": "Before it was named Arcoverde (1943), the town was called Olho d'Água dos Bredos and later Rio Branco (1909), a name that lives on in the Cinema Rio Branco."
+      }
+    ],
+    "imagens": [
+      {
+        "arquivo": "igreja-matriz-livramento-arcoverde.jpg",
+        "fonte": "",
+        "direitos": "verificar",
+        "legenda": ""
+      }
+    ],
+    "origem": "revisão 2026",
+    "url_legado": null,
+    "fontes": [
+      "https://gcatholic.org/churches/brazil/76917",
+      "https://biblioteca.ibge.gov.br/visualizacao/dtb/pernambuco/arcoverde.pdf"
+    ],
+    "pendencias": []
+  },
+  {
+    "slug": "santuario-divina-misericordia",
+    "cidade": "arcoverde",
+    "nome": "Santuário da Divina Misericórdia",
+    "categoria": "Patrimônio Religioso",
+    "categoria_en": "Religious Heritage",
+    "endereco": "Arcoverde - PE",
+    "latitude": -8.44894,
+    "longitude": -36.98356,
+    "status_coordenadas": "conferida",
+    "descricao": "Santuário católico fundado em 2007 pelo padre Adilson Simões, conhecido como 'Terra da Misericórdia'. Recebe todo ano a Festa da Divina Misericórdia, que em 2026 chegou à 22ª edição, com missas, procissão e programação cultural.",
+    "descricao_en": "A Catholic shrine founded in 2007 by Father Adilson Simões, known as the 'Land of Mercy'. It hosts the yearly Feast of Divine Mercy, which reached its 22nd edition in 2026, with masses, a procession and cultural events.",
+    "status_en": "revisado-2026",
+    "curiosidades": [
+      {
+        "texto": "A festa reúne milhares de fiéis do Sertão do Moxotó e recebe apoio da Empetur, a empresa de turismo do estado.",
+        "texto_en": "The feast draws thousands of pilgrims from the Sertão do Moxotó and is supported by Empetur, the state tourism agency."
+      }
+    ],
+    "imagens": [
+      {
+        "arquivo": "santuario-divina-misericordia.jpg",
+        "fonte": "",
+        "direitos": "verificar",
+        "legenda": ""
+      }
+    ],
+    "origem": "revisão 2026",
+    "url_legado": null,
+    "fontes": [
+      "https://gcatholic.org/churches/brazil/151943",
+      "https://portaldeprefeitura.com.br/pernambuco/arcoverde-na-festa-da-divina-misericordia-governadora-reforca/618909/",
+      "https://www.folhape.com.br/colunistas/blogdafolha/raquel-lyra-renova-compromisso-com-o-sertao-do-moxoto-na-festa-da-divina-misericordia-em-arcoverde/56671/"
+    ],
+    "pendencias": []
+  },
+  {
+    "slug": "igreja-imaculada-conceicao-sertania",
+    "cidade": "sertania",
+    "nome": "Igreja Matriz de Nossa Senhora da Conceição",
+    "categoria": "Patrimônio Religioso",
+    "categoria_en": "Religious Heritage",
+    "endereco": "Rua Amaro Lafayete, Centro, Sertânia - PE",
+    "latitude": -8.0779,
+    "longitude": -37.2662,
+    "status_coordenadas": "conferida",
+    "descricao": "Principal igreja de Sertânia, sede da paróquia de Nossa Senhora da Conceição, criada em 1842. Sua construção começou no início do século XIX por iniciativa de Antão Alves de Souza, que em 1810 doou terras ao patrimônio da igreja.",
+    "descricao_en": "The main church of Sertânia, seat of the parish of Our Lady of the Conception, created in 1842. Construction began in the early 19th century at the initiative of Antão Alves de Souza, who donated land to the church in 1810.",
+    "status_en": "revisado-2026",
+    "curiosidades": [
+      {
+        "texto": "É um dos principais símbolos de Sertânia e palco das maiores celebrações religiosas do município.",
+        "texto_en": "It is one of the main symbols of Sertânia and the setting for the town's largest religious celebrations."
+      }
+    ],
+    "imagens": [
+      {
+        "arquivo": "igreja-sertania.jpg",
+        "fonte": "Bing Imagens",
+        "direitos": "verificar",
+        "legenda": ""
+      }
+    ],
+    "origem": "pesquisa 2026",
+    "url_legado": null,
+    "pendencias": []
+  },
+  {
+    "slug": "praca-de-eventos-olavo-siqueira",
+    "cidade": "sertania",
+    "nome": "Praça de Eventos Olavo Siqueira",
+    "categoria": "Lazer",
+    "categoria_en": "Leisure",
+    "endereco": "Centro, Sertânia - PE",
+    "latitude": -8.0709,
+    "longitude": -37.2648,
+    "status_coordenadas": "aproximada",
+    "descricao": "Grande espaço para eventos culturais, festas populares, shows e celebrações tradicionais.",
+    "descricao_en": "A large space for cultural events, popular festivals, concerts and traditional celebrations.",
+    "status_en": "revisado-2026",
+    "curiosidades": [
+      {
+        "texto": "É o principal centro de eventos da cidade.",
+        "texto_en": "It is the town's main event venue."
+      }
+    ],
+    "imagens": [
+      {
+        "arquivo": "praca-de-eventos-sertania.jpg",
+        "fonte": "",
+        "direitos": "verificar",
+        "legenda": ""
+      }
+    ],
+    "origem": "pesquisa 2026",
+    "url_legado": null,
+    "pendencias": [
+      "A imagem (um banco de praça) parece genérica, não da praça real — substituir."
+    ]
+  },
+  {
+    "slug": "parque-de-exposicoes-renato-moraes",
+    "cidade": "sertania",
+    "nome": "Parque de Exposições Professor Renato Moraes",
+    "categoria": "Cultura",
+    "categoria_en": "Culture",
+    "endereco": "PE-280, 961, Sertânia - PE",
+    "latitude": -8.0599,
+    "longitude": -37.2707,
+    "status_coordenadas": "aproximada",
+    "descricao": "Espaço de exposições agropecuárias, feiras de negócios rurais e eventos ligados à criação de animais.",
+    "descricao_en": "A venue for agricultural and livestock shows, rural business fairs and animal-breeding events.",
+    "status_en": "revisado-2026",
+    "curiosidades": [
+      {
+        "texto": "É um importante polo da cultura vaqueira do sertão pernambucano.",
+        "texto_en": "It is an important center of vaqueiro (cowboy) culture in the Pernambuco sertão."
+      }
+    ],
+    "imagens": [
+      {
+        "arquivo": "parque-de-exposicoes-sertania.jpg",
+        "fonte": "",
+        "direitos": "verificar",
+        "legenda": ""
+      }
+    ],
+    "origem": "pesquisa 2026",
+    "url_legado": null,
+    "pendencias": []
+  },
+  {
+    "slug": "estacao-ferroviaria-sertania",
+    "cidade": "sertania",
+    "nome": "Antiga Estação Ferroviária de Sertânia",
+    "categoria": "Patrimônio Histórico",
+    "categoria_en": "Historical Heritage",
+    "endereco": "Centro, Sertânia - PE",
+    "latitude": -8.0736,
+    "longitude": -37.2644,
+    "status_coordenadas": "aproximada",
+    "descricao": "Antiga estação da linha férrea que ligava o Recife ao sertão, parte da história de crescimento da cidade.",
+    "descricao_en": "The old station on the railway line that linked Recife to the sertão, part of the history of how the town grew.",
+    "status_en": "revisado-2026",
+    "curiosidades": [],
+    "imagens": [
+      {
+        "arquivo": "estacao-ferroviaria-sertania.jpg",
+        "fonte": "",
+        "direitos": "verificar",
+        "legenda": ""
+      }
+    ],
+    "origem": "pesquisa 2026",
+    "url_legado": null,
+    "pendencias": [
+      "Coordenada aproximada.",
+      "CORRIGIDO: o nome \"Armazém das Artes\" não foi confirmado em nenhuma fonte e saiu do texto. Confirmar o uso atual do prédio com a prefeitura."
+    ]
+  },
+  {
+    "slug": "acude-poco-da-cruz",
+    "cidade": "ibimirim",
+    "nome": "Açude Poço da Cruz",
+    "categoria": "Natureza",
+    "categoria_en": "Nature",
+    "endereco": "Distrito de Poço da Cruz, Ibimirim - PE",
+    "latitude": -8.57,
+    "longitude": -37.71,
+    "status_coordenadas": "aproximada",
+    "descricao": "Maior reservatório de água de Pernambuco, fundamental para o abastecimento, a irrigação e o turismo. No entorno há áreas de lazer para banho, pesca e esportes aquáticos.",
+    "descricao_en": "The largest reservoir in Pernambuco, essential for water supply, irrigation and tourism. Around it there are leisure areas for swimming, fishing and water sports.",
+    "status_en": "revisado-2026",
+    "curiosidades": [],
+    "imagens": [
+      {
+        "arquivo": "acude-poco-da-cruz.jpg",
+        "fonte": "",
+        "direitos": "verificar",
+        "legenda": ""
+      },
+      {
+        "arquivo": "acude-poco-da-cruz-2.jpg",
+        "fonte": "",
+        "direitos": "verificar",
+        "legenda": "Área de lazer da barragem"
+      }
+    ],
+    "origem": "pesquisa 2026",
+    "url_legado": null,
+    "pendencias": [
+      "Localização: A coordenada atual fica ao sul da cidade, mas o lago fica a montante — conferir no mapa."
+    ]
+  },
+  {
+    "slug": "prainha-do-poco-da-cruz",
+    "cidade": "ibimirim",
+    "nome": "Prainha do Poço da Cruz",
+    "categoria": "Lazer",
+    "categoria_en": "Leisure",
+    "endereco": "Distrito de Poço da Cruz, Ibimirim - PE",
+    "latitude": -8.58,
+    "longitude": -37.69,
+    "status_coordenadas": "aproximada",
+    "descricao": "Área de lazer às margens do Açude Poço da Cruz, procurada para banho, passeios e contemplação da paisagem.",
+    "descricao_en": "A leisure area on the shores of the Poço da Cruz reservoir, popular for swimming, outings and enjoying the scenery.",
+    "status_en": "revisado-2026",
+    "curiosidades": [],
+    "imagens": [
+      {
+        "arquivo": "prainha-do-poco-da-cruz.jpg",
+        "fonte": "",
+        "direitos": "verificar",
+        "legenda": ""
+      }
+    ],
+    "origem": "pesquisa 2026",
+    "url_legado": null,
+    "pendencias": []
+  },
+  {
+    "slug": "igreja-matriz-santo-antonio-ibimirim",
+    "cidade": "ibimirim",
+    "nome": "Igreja Matriz de São Francisco de Assis",
+    "categoria": "Patrimônio Religioso",
+    "categoria_en": "Religious Heritage",
+    "endereco": "Centro, Ibimirim - PE",
+    "latitude": -8.5352,
+    "longitude": -37.6932,
+    "status_coordenadas": "conferida",
+    "descricao": "Principal igreja da cidade, sede da Paróquia de São Francisco de Assis, da Diocese de Floresta.",
+    "descricao_en": "The main church of the town, seat of the Parish of Saint Francis of Assisi, in the Diocese of Floresta.",
+    "status_en": "revisado-2026",
+    "curiosidades": [],
+    "imagens": [
+      {
+        "arquivo": "igreja-sao-francisco-ibimirim.jpg",
+        "fonte": "Google Street View",
+        "direitos": "verificar",
+        "legenda": ""
+      }
+    ],
+    "origem": "pesquisa 2026",
+    "url_legado": null,
+    "pendencias": []
+  },
+  {
+    "slug": "povoado-moxoto",
+    "cidade": "ibimirim",
+    "nome": "Povoado Moxotó",
+    "categoria": "Patrimônio Histórico",
+    "categoria_en": "Historical Heritage",
+    "endereco": "Zona rural, Ibimirim - PE",
+    "latitude": -8.55,
+    "longitude": -37.69,
+    "status_coordenadas": "aproximada",
+    "descricao": "Povoado com prédios antigos e potencial turístico.",
+    "descricao_en": "A village with old buildings and tourism potential.",
+    "status_en": "revisado-2026",
+    "curiosidades": [],
+    "imagens": [
+      {
+        "arquivo": "povoado-moxoto.jpg",
+        "fonte": "",
+        "direitos": "verificar",
+        "legenda": ""
+      }
+    ],
+    "origem": "pesquisa 2026",
+    "url_legado": null,
+    "pendencias": [
+      "Descrição muito curta — pesquisar a história do povoado.",
+      "Localização: A coordenada atual é praticamente o centro de Ibimirim; marcar a vila de Moxotó no mapa."
+    ]
+  },
+  {
+    "slug": "parque-nacional-do-catimbau",
+    "cidade": "ibimirim",
+    "nome": "Parque Nacional do Catimbau",
+    "categoria": "Natureza",
+    "categoria_en": "Nature",
+    "endereco": "Ibimirim - PE",
+    "latitude": -8.5,
+    "longitude": -37.3,
+    "status_coordenadas": "aproximada",
+    "descricao": "Unidade de conservação federal de cerca de 62 mil hectares criada por decreto em 13 de dezembro de 2002, no bioma Caatinga. O Cadastro Nacional de Unidades de Conservação registra o parque nos municípios de Buíque, Ibimirim, Sertânia e Tupanatinga. Reúne mais de uma centena de sítios arqueológicos com pinturas rupestres. A principal entrada para visitantes fica pela Vila do Catimbau, em Buíque.",
+    "descricao_en": "A federal protected area of about 62,000 hectares in the Caatinga biome, created by decree on 13 December 2002. Brazil's National Register of Protected Areas lists the park in the municipalities of Buíque, Ibimirim, Sertânia and Tupanatinga. It holds more than a hundred archaeological sites with rock paintings. The main entrance for visitors is through the village of Catimbau, in Buíque.",
+    "status_en": "revisado-2026",
+    "curiosidades": [
+      {
+        "texto": "O Vale do Catimbau é apontado como o segundo maior parque arqueológico do Brasil, atrás apenas da Serra da Capivara (PI); algumas pinturas têm entre 8 e 10 mil anos.",
+        "texto_en": "The Catimbau Valley is described as Brazil's second-largest archaeological park, after Serra da Capivara (Piauí); some paintings are 8,000 to 10,000 years old."
+      }
+    ],
+    "imagens": [
+      {
+        "arquivo": "parque-nacional-do-catimbau.jpg",
+        "fonte": "",
+        "direitos": "verificar",
+        "legenda": ""
+      },
+      {
+        "arquivo": "sitios-arqueologicos-itapetim.jpg",
+        "fonte": "",
+        "direitos": "verificar",
+        "legenda": ""
+      }
+    ],
+    "origem": "revisão 2026",
+    "url_legado": null,
+    "fontes": [
+      "https://cnuc-backend.mma.gov.br/api/v1/report/uc/170",
+      "https://planalto.gov.br/ccivil_03/DNN/2002/Dnn9771.htm",
+      "https://www.360meridianos.com/vale-do-catimbau-pinturas-rupestres/"
+    ],
+    "pendencias": [
+      "Coordenada aproximada: marcar o local exato no mapa."
+    ]
+  },
+  {
+    "slug": "igreja-matriz-sao-jose-custodia",
+    "cidade": "custodia",
+    "nome": "Igreja Matriz de São José",
+    "categoria": "Patrimônio Religioso",
+    "categoria_en": "Religious Heritage",
+    "endereco": "Centro, Custódia - PE",
+    "latitude": -8.0882,
+    "longitude": -37.643,
+    "status_coordenadas": "conferida",
+    "descricao": "Principal templo religioso da cidade e um dos mais importantes patrimônios históricos do município.",
+    "descricao_en": "The town's main church and one of the municipality's most important historical landmarks.",
+    "status_en": "revisado-2026",
+    "curiosidades": [],
+    "imagens": [
+      {
+        "arquivo": "igreja-matriz-custodia.jpg",
+        "fonte": "",
+        "direitos": "verificar",
+        "legenda": ""
+      }
+    ],
+    "origem": "pesquisa 2026",
+    "url_legado": null,
+    "pendencias": []
+  },
+  {
+    "slug": "parque-de-exposicoes-armando-wanderley",
+    "cidade": "custodia",
+    "nome": "Parque de Exposições Armando Vanderlei da Fonte",
+    "categoria": "Cultura",
+    "categoria_en": "Culture",
+    "endereco": "Custódia - PE",
+    "latitude": -8.09,
+    "longitude": -37.64,
+    "status_coordenadas": "aproximada",
+    "descricao": "Espaço de eventos agropecuários, culturais e tradicionais da região.",
+    "descricao_en": "A venue for agricultural, cultural and traditional events in the region.",
+    "status_en": "revisado-2026",
+    "curiosidades": [],
+    "imagens": [
+      {
+        "arquivo": "parque-de-exposicoes-custodia.jpg",
+        "fonte": "",
+        "direitos": "verificar",
+        "legenda": ""
+      }
+    ],
+    "origem": "pesquisa 2026",
+    "url_legado": null,
+    "pendencias": [
+      "CORRIGIDO: na pesquisa aparecia \"Exhibition Park Armando Vanderlei Source\" (resto de tradução automática).",
+      "Grafia Wanderley/Vanderlei a confirmar com a prefeitura."
+    ]
+  },
+  {
+    "slug": "igreja-sao-lazaro-betania",
+    "cidade": "betania",
+    "nome": "Igreja de São Lázaro",
+    "categoria": "Patrimônio Religioso",
+    "categoria_en": "Religious Heritage",
+    "endereco": "Centro, Betânia - PE",
+    "latitude": -8.275,
+    "longitude": -38.035,
+    "status_coordenadas": "conferida",
+    "descricao": "Principal igreja de Betânia, sede da Paróquia de São Lázaro, da Diocese de Floresta. O padroeiro tem ligação com o nome da cidade: nos Evangelhos, Betânia é a aldeia de Lázaro.",
+    "descricao_en": "The main church of Betânia, seat of the Parish of Saint Lazarus, in the Diocese of Floresta. The patron saint is linked to the town's name: in the Gospels, Bethany is the village of Lazarus.",
+    "status_en": "revisado-2026",
+    "curiosidades": [
+      {
+        "texto": "O lugar se chamava Caiçara dos Órfãos e passou a se chamar Betânia em 1912, por sugestão do Padre José Ribeiro.",
+        "texto_en": "The place was called Caiçara dos Órfãos and was renamed Betânia in 1912, at the suggestion of Father José Ribeiro."
+      }
+    ],
+    "imagens": [
+      {
+        "arquivo": "igreja-sao-lazaro-betania.jpg",
+        "fonte": "viajandotodoobrasil.com.br",
+        "direitos": "verificar",
+        "legenda": ""
+      }
+    ],
+    "origem": "pesquisa 2026",
+    "url_legado": null,
+    "pendencias": [
+      "CORRIGIDO: a pesquisa dizia \"Igreja Matriz de Nossa Senhora do Carmo\", que não existe; a igreja de Betânia é a de São Lázaro.",
+      "A foto tem marca d'água do site Viajando Todo o Brasil: pedir autorização ou citar a fonte."
+    ]
+  },
+  {
+    "slug": "clube-de-campo-oasis-do-sertao",
+    "cidade": "betania",
+    "nome": "Clube Oásis do Sertão",
+    "categoria": "Lazer",
+    "categoria_en": "Leisure",
+    "endereco": "Betânia - PE",
+    "latitude": -8.27,
+    "longitude": -38.04,
+    "status_coordenadas": "aproximada",
+    "descricao": "Espaço de lazer usado para recreação, eventos e atividades sociais.",
+    "descricao_en": "A leisure venue used for recreation, events and social activities.",
+    "status_en": "revisado-2026",
+    "curiosidades": [],
+    "imagens": [
+      {
+        "arquivo": "clube-oasis-do-sertao.jpg",
+        "fonte": "",
+        "direitos": "verificar",
+        "legenda": ""
+      }
+    ],
+    "origem": "pesquisa 2026",
+    "url_legado": null,
+    "pendencias": [
+      "Confirmar se é aberto ao público (clube particular?) antes de colocar QR Code."
+    ]
+  },
+  {
+    "slug": "aldeia-tuxa-fazenda-funil",
+    "cidade": "inaja",
+    "nome": "Aldeia Tuxá — Fazenda Funil",
+    "categoria": "Cultura",
+    "categoria_en": "Culture",
+    "endereco": "Zona rural, Inajá - PE",
+    "latitude": -8.9,
+    "longitude": -38.1,
+    "status_coordenadas": "aproximada",
+    "descricao": "Área de preservação cultural e natural do povo indígena Tuxá, com natureza preservada e tradições indígenas.",
+    "descricao_en": "An area where the Tuxá Indigenous people preserve their culture, their traditions and the surrounding nature.",
+    "status_en": "revisado-2026",
+    "curiosidades": [],
+    "imagens": [
+      {
+        "arquivo": "aldeia-tuxa-fazenda-funil.jpg",
+        "fonte": "",
+        "direitos": "verificar",
+        "legenda": ""
+      }
+    ],
+    "origem": "pesquisa 2026",
+    "url_legado": null,
+    "pendencias": [
+      "É terra indígena: qualquer visita ou QR Code no local exige consulta e autorização da comunidade Tuxá.",
+      "A pesquisa listava \"Reserva Indígena\" e \"Aldeia Funil\" como pontos separados; foram unidos.",
+      "A foto parece estar girada/torta — conferir ou trocar.",
+      "Localização: A coordenada atual fica ~30 km a oeste da sede de Inajá, sem fonte — marcar no mapa."
+    ]
+  },
+  {
+    "slug": "igreja-matriz-nossa-senhora-da-conceicao-manari",
+    "cidade": "manari",
+    "nome": "Igreja Matriz de Nossa Senhora da Conceição",
+    "categoria": "Patrimônio Religioso",
+    "categoria_en": "Religious Heritage",
+    "endereco": "Centro, Manari - PE",
+    "latitude": -8.964,
+    "longitude": -37.63,
+    "status_coordenadas": "aproximada",
+    "descricao": "Principal igreja da cidade.",
+    "descricao_en": "The town's main church.",
+    "status_en": "revisado-2026",
+    "curiosidades": [],
+    "imagens": [
+      {
+        "arquivo": "igreja-matriz-nossa-senhora-da-conceicao-manari.jpg",
+        "fonte": "",
+        "direitos": "verificar",
+        "legenda": ""
+      }
+    ],
+    "origem": "pesquisa 2026",
+    "url_legado": null,
+    "pendencias": [
+      "Descrição muito curta — completar.",
+      "Coordenada aproximada."
+    ]
+  },
+  {
+    "slug": "pedra-do-reino",
+    "cidade": "sao-jose-do-belmonte",
+    "nome": "Pedra do Reino",
+    "categoria": "Patrimônio Histórico",
+    "categoria_en": "Historical Heritage",
+    "endereco": "",
+    "latitude": -7.95,
+    "longitude": -38.8,
+    "status_coordenadas": "aproximada",
+    "descricao": "A Pedra do Reino, ou Pedra Bonita, é um conjunto de duas formações rochosas de cerca de 30 metros de altura, situadas em São José do Belmonte (PE). Tornou-se famosa pelo movimento messiânico sebastianista ocorrido entre 1836 e 1838.\n\nO episódio inspirou diversas obras, como 'O Romance d'A Pedra do Reino' de Ariano Suassuna. Todo ano em maio, ocorre a Cavalgada à Pedra do Reino, celebração ligada à tradição armorial.",
+    "descricao_en": "The Pedra do Reino, also known as Pedra Bonita, is a pair of rock formations about 30 meters tall, located in São José do Belmonte, Pernambuco. It became famous as the site of a Sebastianist messianic movement between 1836 and 1838.\n\nThe episode inspired several works, including Ariano Suassuna’s 'Romance d’A Pedra do Reino'. Every year in May, the Cavalgada to the Pedra do Reino takes place, a celebration linked to the Armorial tradition.",
+    "status_en": "revisado-2025",
+    "curiosidades": [],
+    "imagens": [
+      {
+        "arquivo": "pedra-do-reino.jpg",
+        "fonte": "",
+        "direitos": "verificar",
+        "legenda": ""
+      }
+    ],
+    "origem": "v1.0 (2025)",
+    "url_legado": "/pontos/pedra-do-reino.html",
+    "pendencias": [
+      "Localização: Fica na zona rural, ~38 km da sede pela estrada; a coordenada atual (~10 km) está errada — marcar no mapa."
+    ]
+  },
+  {
+    "slug": "castelo-armorial",
+    "cidade": "sao-jose-do-belmonte",
+    "nome": "Castelo Armorial",
+    "categoria": "Museu",
+    "categoria_en": "Museum",
+    "endereco": "",
+    "latitude": -7.861,
+    "longitude": -38.761,
+    "status_coordenadas": "aproximada",
+    "descricao": "Em São José do Belmonte ergue-se o Castelo Armorial, uma construção de mais de 15 metros de altura que funciona como museu dedicado à cultura sertaneja e ao Movimento Armorial, idealizado por Ariano Suassuna.\n\nA obra combina elementos medievais, barrocos e mouriscos com referências ao imaginário nordestino. O interior abriga iluminogravuras de Ariano Suassuna, xilogravuras de J. Borges e memórias históricas da região.\n\nO espaço funciona como síntese artística da cultura nordestina e celebra o artesanato, a música, a literatura e a tradição sertaneja.",
+    "descricao_en": "In São José do Belmonte stands the Armorial Castle, a structure over 15 meters high that functions as a museum dedicated to backlands culture and the Armorial Movement, created by Ariano Suassuna.\n\nThe structure combines medieval, Baroque, and Moorish elements with references to Northeastern Brazilian folklore. Inside, it houses 'illuminogravuras' by Ariano Suassuna, woodcuts by J. Borges, and historical records.\n\nThe space serves as a visual synthesis of Northeastern Brazilian culture, celebrating craftsmanship, music, literature, and the traditions of the backlands.",
+    "status_en": "revisado-2025",
+    "curiosidades": [],
+    "imagens": [
+      {
+        "arquivo": "castelo-armorial.jpg",
+        "fonte": "",
+        "direitos": "verificar",
+        "legenda": ""
+      }
+    ],
+    "origem": "v1.0 (2025)",
+    "url_legado": "/pontos/castelo-armorial.html",
+    "pendencias": []
+  },
+  {
+    "slug": "estadio-cornelio-de-barros",
+    "cidade": "salgueiro",
+    "nome": "Estádio Cornélio de Barros",
+    "categoria": "Esporte",
+    "categoria_en": "Sports",
+    "endereco": "",
+    "latitude": -8.075,
+    "longitude": -39.1233,
+    "status_coordenadas": "conferida",
+    "descricao": "O Estádio Municipal Cornélio de Barros, mais conhecido como Salgueirão, é o estádio de futebol da cidade de Salgueiro, tradicional casa do Salgueiro Atlético Clube.\n\nInaugurado em 1970 e ampliado em 2012 para receber jogos da Série B, o estádio se tornou um símbolo do futebol no interior pernambucano, palco de jogos marcantes e campanhas fortes do time local.",
+    "descricao_en": "The Municipal Stadium Cornélio de Barros, widely known as Salgueirão, is the football stadium of the city of Salgueiro and the traditional home of Salgueiro Atlético Clube.\n\nInaugurated in 1970 and expanded in 2012 to host Série B matches, the stadium became a symbol of football in the Pernambuco countryside, hosting memorable matches and strong campaigns by the local team.",
+    "status_en": "revisado-2025",
+    "curiosidades": [],
+    "imagens": [
+      {
+        "arquivo": "estadio-cornelio-de-barros.jpg",
+        "fonte": "",
+        "direitos": "verificar",
+        "legenda": ""
+      }
+    ],
+    "origem": "v1.0 (2025)",
+    "url_legado": "/pontos/estadio-cornelio-de-barros.html",
+    "pendencias": []
+  }
+]

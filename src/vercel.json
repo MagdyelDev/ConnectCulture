@@ -1,0 +1,8 @@
+{
+  "cleanUrls": false,
+  "rewrites": [
+    { "source": "/pontos/:slug.html", "destination": "/pages/ponto.html" },
+    { "source": "/pontos/:slug", "destination": "/pages/ponto.html" },
+    { "source": "/cidades/:slug", "destination": "/pages/cidade.html?id=:slug" }
+  ]
+}

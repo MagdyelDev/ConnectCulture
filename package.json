@@ -1,0 +1,12 @@
+{
+  "name": "connect-culture",
+  "version": "2.0.0",
+  "private": true,
+  "description": "Connect Culture 2.0 - turismo cultural do Sertão do Pajeú e do Moxotó",
+  "scripts": {
+    "qrcodes": "node geradorqrcode.js"
+  },
+  "devDependencies": {
+    "qrcode": "^1.5.4"
+  }
+}
